@@ -1,0 +1,148 @@
+div.css-1aumxhk {
+    /* background-color: #061E42; */
+    background-image: #cb333b;
+    }
+/* div[data-testid="stSidebar"] div.css-6qob1r.eczjsme3 div.css-1544g2n.eczjsme4 div[data-testid="block-container"] div div[data-testid="stVerticalBlock"] div[data-testid="stExpander"] div[role="button"] p {
+    color: #ffffff;
+} */
+div.css-fblp2m {
+    color: #ffffff;
+}
+div.stStreamlitHeader > div:first-child {
+    display: none;
+}
+
+/* space between expander and the tabs
+*/
+/* iframe {
+    height: 10px
+} */
+/* div.css-5rimss.e1f1d6gn2 {
+    font-size: 12px;
+} */
+.css-keje6w {
+    height: 625px;
+}
+.css-1544g2n {
+    padding-top: 40px;
+}
+.css-1v0mbdj {
+    width: 250px;
+}
+.css-18ni7ap {
+    height: 0px;
+}
+/* .stVerticalBlock {
+    height: 580px !important;
+} */
+div[data-testid="block-container"] {
+    padding-top: 0px;
+}
+.css-fblp2m {
+    width: 1.8rem;
+    height: 1.8rem;
+}
+
+/* .expander {
+    color: #ffffff;
+    font-size: 1000px;
+    font-weight: bold;
+    font-family: 'HelveticaNeue-Light', Helvetica, Arial, sans-serif;
+} */
+
+div.block-container.css-ysnqb2.ea3mdgi4  div.css-16idsys p {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'HelveticaNeue-Light', Helvetica, Arial, sans-serif;
+}
+
+div.block-container.css-ysnqb2.ea3mdgi4  div.css-5rimss p {
+    color: #ffffff;
+    font-size: 14px;
+    font-family: 'HelveticaNeue-Light', Helvetica, Arial, sans-serif;
+}
+
+div.block-container.css-z5fcl4.ea3mdgi4 div.css-16idsys p {
+    color: rgba(1, 66, 106, 0.8);
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'HelveticaNeue-Light', Helvetica, Arial, sans-serif;
+}
+
+
+div.block-container.css-ysnqb2.ea3mdgi4 div[data-testid="stExpander"] div[role="button"] svg {
+    color: #ffffff;
+}
+
+div.block-container.css-z5fcl4.ea3mdgi4 div[data-testid="stExpander"] div[role="button"] svg {
+    color: rgba(1, 66, 106, 0.8);
+}
+
+div[data-testid="stVerticalBlock"] div[data-testid="stTickBar"]{
+    color: #ffffff;
+}
+div[data-testid="stVerticalBlock"] div[data-testid="stThumbValue"]{
+    color: #ffffff;
+}
+
+div[data-testid="stHorizontalBlock"] div[data-testid="stTickBar"]{
+    color: rgba(1, 66, 106, 0.8);
+}
+div[data-testid="stHorizontalBlock"] div[data-testid="stThumbValue"]{
+    color: rgba(1, 66, 106, 0.8);
+}
+
+/* /#feu-profit-explorer > div {
+    position: fixed;
+    top: 0px;
+    width: -webkit-fill-available;
+    left: auto;
+    padding-right: 6%;
+    z-index: 101; 
+    background-color: #ffffff;
+} */
+#root > div:nth-child(1) > div.withScreencast > div > div > header > div.css-1dp5vir.ezrtsby1{
+    background-image: linear-gradient(90deg, #ffffff, #ffffff)
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-uf99v8.ea3mdgi5 > div.block-container.css-z5fcl4.ea3mdgi4 > div:nth-child(1) > div > div:nth-child(3) > div{
+    position: fixed;
+    top: 0px;
+    z-index: 101; 
+    background-color: #ffffff;
+}
+
+#profit-explorer > div > span{
+    top: -10px;
+}
+
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-uf99v8.ea3mdgi5 > div.block-container.css-z5fcl4.ea3mdgi4 > div:nth-child(1) > div > div:nth-child(7) {
+    position: fixed;
+    height: 60px;
+    top: 50px; /* Adjust this value as needed */
+    bottom: 600px;
+    left: auto; /* Adjust this value as needed */
+    z-index: 100; /* To ensure it's on top of other elements */
+    background-color: #ffffff;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-uf99v8.ea3mdgi5 > div.block-container.css-z5fcl4.ea3mdgi4 > div:nth-child(1) > div > div.css-ocqkz7.e1f1d6gn3 > div:nth-child(1) > div:nth-child(1){
+    margin-left: 3px
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-uf99v8.ea3mdgi5 > div.block-container.css-z5fcl4.ea3mdgi4 > div:nth-child(1) > div > div.css-ocqkz7.e1f1d6gn3 > div:nth-child(2) > div:nth-child(1) > div > div:nth-child(1) > div{
+    right: 4px;
+}
+
+.stRadio > div {
+    margin-top: -15px;
+    margin-bottom: -30px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.stRadio [role=radiogroup]{
+    align-items: center;
+    justify-content: center;
+}

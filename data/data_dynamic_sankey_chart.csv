@@ -1,0 +1,800 @@
+SourceData,Material,Commodity,From,To,Quantity,Account
+1,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Plant - NZ,Hamburg Port - DE,76.4,NA
+1,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Plant - NZ,Rotterdam Port - NL,1183.18,NA
+1,100733 - MPC85 4861 CWS K 20kg PPK,MPC,Plant - NZ,Rotterdam Port - NL,134.38,NA
+1,103791 - MPC85 4855 K EU 20kg MBG,MPC,Plant - NZ,Rotterdam Port - NL,1717.02,NA
+1,104504 - NACTE 1808 20% R150UM ABT 20KG MBG,Caseinate,Plant - NZ,Hamburg Port - DE,20.16,NA
+1,104504 - NACTE 1808 20% R150UM ABT 20KG MBG,Caseinate,Plant - NZ,Rotterdam Port - NL,459.76,NA
+1,104517 - CaCte 3800 Sstab 20kg MBG,Caseinate,Plant - NZ,Rotterdam Port - NL,44.8,NA
+1,104527 - CACTE 3808 SSTAB ABT 20KG MBG,Caseinate,Plant - NZ,Rotterdam Port - NL,109.94,NA
+1,104528 - CaCte 3851 Sstab Disp EUR 20kg MBG,Caseinate,Plant - NZ,Rotterdam Port - NL,21.88,NA
+1,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Plant - NZ,Hamburg Port - DE,152.6,NA
+1,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Plant - NZ,Rotterdam Port - NL,229.55,NA
+1,104642 - WPI 895 IX 25KG MBG,WPC,Plant - NZ,Rotterdam Port - NL,151.425,NA
+1,104650 - WHEY HYD 821 HA 15KG MBG,Whey,Plant - NZ,Rotterdam Port - NL,0.72,NA
+1,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Plant - NZ,Rotterdam Port - NL,583.65,NA
+1,109646 - MPC85 4861 CWS K US ABT 20KG PPK,MPC,Plant - NZ,Hamburg Port - DE,172.74,NA
+1,109646 - MPC85 4861 CWS K US ABT 20KG PPK,MPC,Plant - NZ,Rotterdam Port - NL,556.74,NA
+1,109717 - WHEY HYD 821 ABT 15KG MBG,Whey,Plant - NZ,Rotterdam Port - NL,0.72,NA
+1,110170 - CaCte 3808 Sstab ABT 20kg MBG,Caseinate,Plant - NZ,Hamburg Port - DE,21.46,NA
+1,110170 - CaCte 3808 Sstab ABT 20kg MBG,Caseinate,Plant - NZ,Rotterdam Port - NL,88.62,NA
+1,112284 - WPC80 CHS 550 25KG MBG (FUNCTIONAL),WPC,Plant - NZ,Rotterdam Port - NL,345.075,NA
+1,112960 - MPC85 4882 MEDAPP HAL/K 20KG MBG,MPC,Plant - NZ,Rotterdam Port - NL,192,NA
+1,113056 - WPI 895 IX K EU FRC 25KG MBG,WPC,Plant - NZ,Rotterdam Port - NL,11.3,NA
+1,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Plant - NZ,Rotterdam Port - NL,31.36,NA
+1,114351 - WPC 80 Chs 4501 Inst K 20kgMBG,WPC,Plant - NZ,Rotterdam Port - NL,95.52,NA
+1,114574 - MPC70 4703 LH K ABT 20KG MBG,MPC,Plant - NZ,Rotterdam Port - NL,599,NA
+1,114612 - MPC85 4854 LOSRC K EU NES 20KG MBG,MPC,Plant - NZ,Hamburg Port - DE,80.64,NA
+1,114612 - MPC85 4854 LOSRC K EU NES 20KG MBG,MPC,Plant - NZ,Rotterdam Port - NL,926.44,NA
+1,114767 - WHEY HYD 7050 15KG MBG,Whey,Plant - NZ,Rotterdam Port - NL,13.17,NA
+1,115016 - MPI 4900 K 20KG MBG,MPC,Plant - NZ,Rotterdam Port - NL,133.96,NA
+1,115542 - WPI 8855 IX 20KG MBG,WPC,Plant - NZ,Rotterdam Port - NL,106.6,NA
+1,120166 - WPC80 CHS 550 MEDAPP LL FUNC 25KG MBG,WPC,Plant - NZ,Rotterdam Port - NL,132.925,NA
+1,120798 - WPC80 CHS 550 MEDAPP 25KG MBG,WPC,Plant - NZ,Rotterdam Port - NL,130.825,NA
+1,120931 - WPI 895-INST IX 20KG MBG,WPC,Plant - NZ,Rotterdam Port - NL,19.2,NA
+1,121038 - BMP BSP NUTING WTBLD ABT 25KG MBG,BMP,Plant - NZ,Rotterdam Port - NL,172.275,NA
+1,121578 - MPC85 4851 LL K ABT 20KG MBG,MPC,Plant - NZ,Rotterdam Port - NL,5.6,NA
+1,122067 - MLKMIN 997 25KG MBG,Whey,Plant - NZ,Rotterdam Port - NL,64.625,NA
+2,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Hamburg Port - DE,Sternmaid GmbH - DE,76.4,NA
+2,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Rotterdam Port - NL,Jonker & Schut - NL,517.36,NA
+2,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Rotterdam Port - NL,Portena - NL,665.8199999999999,NA
+2,100733 - MPC85 4861 CWS K 20kg PPK,MPC,Rotterdam Port - NL,Portena - NL,134.38,NA
+2,103791 - MPC85 4855 K EU 20kg MBG,MPC,Rotterdam Port - NL,Portena - NL,1717.02,NA
+2,104504 - NACTE 1808 20% R150UM ABT 20KG MBG,Caseinate,Hamburg Port - DE,Sternmaid GmbH - DE,20.16,NA
+2,104504 - NACTE 1808 20% R150UM ABT 20KG MBG,Caseinate,Rotterdam Port - NL,Jonker & Schut - NL,139.92000000000002,NA
+2,104504 - NACTE 1808 20% R150UM ABT 20KG MBG,Caseinate,Rotterdam Port - NL,Portena - NL,319.84,NA
+2,104517 - CaCte 3800 Sstab 20kg MBG,Caseinate,Rotterdam Port - NL,Portena - NL,44.8,NA
+2,104527 - CACTE 3808 SSTAB ABT 20KG MBG,Caseinate,Rotterdam Port - NL,Portena - NL,109.94,NA
+2,104528 - CaCte 3851 Sstab Disp EUR 20kg MBG,Caseinate,Rotterdam Port - NL,Portena - NL,21.88,NA
+2,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Hamburg Port - DE,Sternmaid GmbH - DE,152.6,NA
+2,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Rotterdam Port - NL,Portena - NL,229.55,NA
+2,104642 - WPI 895 IX 25KG MBG,WPC,Rotterdam Port - NL,Portena - NL,151.425,NA
+2,104650 - WHEY HYD 821 HA 15KG MBG,Whey,Rotterdam Port - NL,Portena - NL,0.72,NA
+2,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Rotterdam Port - NL,Portena - NL,583.65,NA
+2,109646 - MPC85 4861 CWS K US ABT 20KG PPK,MPC,Hamburg Port - DE,Sternmaid GmbH - DE,172.74,NA
+2,109646 - MPC85 4861 CWS K US ABT 20KG PPK,MPC,Rotterdam Port - NL,Jonker & Schut - NL,460.74,NA
+2,109646 - MPC85 4861 CWS K US ABT 20KG PPK,MPC,Rotterdam Port - NL,Portena - NL,96,NA
+2,109717 - WHEY HYD 821 ABT 15KG MBG,Whey,Rotterdam Port - NL,Portena - NL,0.72,NA
+2,110170 - CaCte 3808 Sstab ABT 20kg MBG,Caseinate,Hamburg Port - DE,Sternmaid GmbH - DE,21.46,NA
+2,110170 - CaCte 3808 Sstab ABT 20kg MBG,Caseinate,Rotterdam Port - NL,Jonker & Schut - NL,22.2,NA
+2,110170 - CaCte 3808 Sstab ABT 20kg MBG,Caseinate,Rotterdam Port - NL,Portena - NL,66.42,NA
+2,112284 - WPC80 CHS 550 25KG MBG (FUNCTIONAL),WPC,Rotterdam Port - NL,Portena - NL,345.075,NA
+2,112960 - MPC85 4882 MEDAPP HAL/K 20KG MBG,MPC,Rotterdam Port - NL,Jonker & Schut - NL,134.4,NA
+2,112960 - MPC85 4882 MEDAPP HAL/K 20KG MBG,MPC,Rotterdam Port - NL,Portena - NL,57.599999999999994,NA
+2,113056 - WPI 895 IX K EU FRC 25KG MBG,WPC,Rotterdam Port - NL,Portena - NL,11.3,NA
+2,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Rotterdam Port - NL,Portena - NL,31.36,NA
+2,114351 - WPC 80 Chs 4501 Inst K 20kgMBG,WPC,Rotterdam Port - NL,Portena - NL,95.52,NA
+2,114574 - MPC70 4703 LH K ABT 20KG MBG,MPC,Rotterdam Port - NL,Jonker & Schut - NL,307.2,NA
+2,114574 - MPC70 4703 LH K ABT 20KG MBG,MPC,Rotterdam Port - NL,Portena - NL,291.8,NA
+2,114612 - MPC85 4854 LOSRC K EU NES 20KG MBG,MPC,Hamburg Port - DE,Sternmaid GmbH - DE,80.64,NA
+2,114612 - MPC85 4854 LOSRC K EU NES 20KG MBG,MPC,Rotterdam Port - NL,Jonker & Schut - NL,825.64,NA
+2,114612 - MPC85 4854 LOSRC K EU NES 20KG MBG,MPC,Rotterdam Port - NL,Portena - NL,100.8,NA
+2,114767 - WHEY HYD 7050 15KG MBG,Whey,Rotterdam Port - NL,Portena - NL,13.17,NA
+2,115016 - MPI 4900 K 20KG MBG,MPC,Rotterdam Port - NL,Portena - NL,133.96,NA
+2,115542 - WPI 8855 IX 20KG MBG,WPC,Rotterdam Port - NL,Portena - NL,106.6,NA
+2,120166 - WPC80 CHS 550 MEDAPP LL FUNC 25KG MBG,WPC,Rotterdam Port - NL,Jonker & Schut - NL,64.45,NA
+2,120166 - WPC80 CHS 550 MEDAPP LL FUNC 25KG MBG,WPC,Rotterdam Port - NL,Kloosterboer - NL,68.475,NA
+2,120798 - WPC80 CHS 550 MEDAPP 25KG MBG,WPC,Rotterdam Port - NL,Jonker & Schut - NL,59.975,NA
+2,120798 - WPC80 CHS 550 MEDAPP 25KG MBG,WPC,Rotterdam Port - NL,Portena - NL,70.85,NA
+2,120931 - WPI 895-INST IX 20KG MBG,WPC,Rotterdam Port - NL,Portena - NL,19.2,NA
+2,121038 - BMP BSP NUTING WTBLD ABT 25KG MBG,BMP,Rotterdam Port - NL,Portena - NL,172.275,NA
+2,121578 - MPC85 4851 LL K ABT 20KG MBG,MPC,Rotterdam Port - NL,Portena - NL,5.6,NA
+2,122067 - MLKMIN 997 25KG MBG,Whey,Rotterdam Port - NL,Portena - NL,64.625,NA
+3,102132 - WMP 28% FAT K 25KG MBG,WMP,Plant - NZ,Schiphol Airport - NL,1.5,NA
+3,103630 - DC WHEY HYD 917 HAL/K EU 25KG MBG,Whey,Plant - NZ,Schiphol Airport - NL,151.2,NA
+3,107730 - WPC 80 Chs 3925 K 25kgMBG,WPC,Plant - NZ,Schiphol Airport - NL,0.3,NA
+3,109717 - WHEY HYD 821 ABT 15KG MBG,Whey,Plant - NZ,Schiphol Airport - NL,0.3,NA
+3,111061 - DC WHEY HYD 917 HAL/K 25KG MBG,Whey,Plant - NZ,Schiphol Airport - NL,10.925,NA
+3,111683 - DC NACTE 167 HAL/K 20KG MBG,Caseinate,Plant - NZ,Schiphol Airport - NL,249.39999999999998,NA
+3,113056 - WPI 895 IX K EU FRC 25KG MBG,WPC,Plant - NZ,Schiphol Airport - NL,15.575,NA
+3,113998 - FNL LAC MHYD UNMILLED 1000KG,Lactose,Portena - NL,Port - UK,2331,NA
+3,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Port - UK,4.6,NA
+3,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Calais Port - FR,86.95,NA
+3,114803 - SAPDUK GOS 57% K/HAL/MUI 1200KG BBN,Lactose,Gregory - UK,Calais Port - FR,28.8,NA
+3,114808 - DC NACTE 166 HAL/K 20KG MBG,Caseinate,Plant - NZ,Schiphol Airport - NL,332.2,NA
+3,114856 - SAPDUK WHEY PDR DEMIN 90 HAL/K 1000KG BB,Whey,Gregory - UK,Calais Port - FR,5023,NA
+3,114925 - SAPDUK WHEYPDR DEMIN90 DRYBLD 1000KG BBG,Whey,Gregory - UK,Calais Port - FR,640,NA
+3,115008 - SAPDUK GOS 57% ORG HAL/MUI 1200KG BBN,Lactose,Gregory - UK,Calais Port - FR,78,NA
+3,115693 - SAPDUK WHEY PDR DEMIN 90 NES 25KG MBG,Whey,Gregory - UK,Calais Port - FR,16,NA
+3,115927 - WHEYFRAC LF 95% 10KG BAG CTN,Whey,Plant - NZ,Schiphol Airport - NL,0.03,NA
+3,119834 - SAPDUK GOS 57% HAL/MUI 1200KG BBN BCE,Lactose,Gregory - UK,Calais Port - FR,519.6,NA
+3,119879 - SAPDUK WHEY PDR DEMIN 90 ANUT 1000KG BBG,Whey,Gregory - UK,Calais Port - FR,724,NA
+3,120066 - SAPDUK GOS 57% HAL/MUI 1000KG BBN BCE,Lactose,Gregory - UK,Calais Port - FR,60,NA
+3,120270 - SAPDUK GOS 57% 1200KG BBN,Lactose,Gregory - UK,Calais Port - FR,128.4,NA
+3,120475 - SAPDUK WHEY PDR DEMIN 90 MIN 25KG MBG,Whey,Gregory - UK,Calais Port - FR,1953.525,NA
+3,120941 - DC WHEY HYD 7051 HA HAL/K 500KG BBG,Whey,Plant - NZ,Schiphol Airport - NL,82.5,NA
+3,121904 - HN019 PROBIOTIC POWDER (625G),Probiotic,Plant - NZ,Schiphol Airport - NL,2.19,NA
+4,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Jonker & Schut - NL,Europe,0.02,Van Lindenberg Trading
+4,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Portena - NL,Europe,423.70000000000005,Abbott
+4,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Portena - NL,Europe,17.28,Alinda-Velco
+4,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Portena - NL,Europe,48.58,Condio
+4,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Portena - NL,Europe,0.06,Small Customer
+4,100714 - MPC85 4851 LL K ABT 20KG PPK,MPC,Portena - NL,Europe,0.32,Van Dalen Dairy Trading
+4,100733 - MPC85 4861 CWS K 20kg PPK,MPC,Portena - NL,Europe,19.2,Alinda-Velco
+4,100733 - MPC85 4861 CWS K 20kg PPK,MPC,Portena - NL,Europe,46.800000000000004,Azelis
+4,100733 - MPC85 4861 CWS K 20kg PPK,MPC,Portena - NL,Europe,45,KH Dairy Sourcing
+4,100733 - MPC85 4861 CWS K 20kg PPK,MPC,Portena - NL,Europe,7.2,Rajo
+4,100733 - MPC85 4861 CWS K 20kg PPK,MPC,Portena - NL,Europe,0.62,Small Customer
+4,100733 - MPC85 4861 CWS K 20kg PPK,MPC,Portena - NL,Europe,3.5999999999999996,Univar Solutions
+4,100733 - MPC85 4861 CWS K 20kg PPK,MPC,Portena - NL,Europe,0.1,Vilgain
+4,101392 - NZMP BTR SLTD 25 KG CTN,Butter,Plant - NZ,Europe (UK),704.55,Greenfields
+4,101392 - NZMP BTR SLTD 25 KG CTN,Butter,Plant - NZ,Europe,1508.05,Interfood
+4,102132 - WMP 28% FAT K 25KG MBG,WMP,Schiphol Airport - NL,Europe,1.5,Ferrero Group
+4,103630 - DC WHEY HYD 917 HAL/K EU 25KG MBG,Whey,Portena - NL,Europe,155.95,Abbott
+4,103630 - DC WHEY HYD 917 HAL/K EU 25KG MBG,Whey,Portena - NL,Europe,0.025,Van Dalen Dairy Trading
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Plant - NZ,Europe,130.32,Alinda-Velco
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Plant - NZ,Europe,241.78,Fayrefield
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Plant - NZ,Europe,44.8,Milky Group
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,320.4,Alinda-Velco
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,3.6,Alphacaps
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,43.9,Aminolabs
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,0.6,Azelis
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,184.14,Condetta
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,130.26,Condio
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,11.46,Elsdorfer Molkerei
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,31.2,Hochland
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,54.6,Industrieberatung J.Knobel
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,11.4,Lactoland
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,0.16,NEN-Produkter
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,237.02,Small Customer
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,9,Sternmaid
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,36.02,Unionplus
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,44.6,Univar Solutions
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,0.04,Van Dalen Dairy Trading
+4,103791 - MPC85 4855 K EU 20kg MBG,MPC,Portena - NL,Europe,0.28,Van Lindenberg Trading
+4,104498 - NaCte 1800 20% R150um 20kg MBG,Caseinate,Portena - NL,Europe,5.12,Meiji Pharma
+4,104504 - NACTE 1808 20% R150UM ABT 20KG MBG,Caseinate,Jonker & Schut - NL,Europe,21.84,Abbott
+4,104504 - NACTE 1808 20% R150UM ABT 20KG MBG,Caseinate,Jonker & Schut - NL,Europe,0.02,Van Lindenberg Trading
+4,104504 - NACTE 1808 20% R150UM ABT 20KG MBG,Caseinate,Portena - NL,Europe,345.4,Abbott
+4,104504 - NACTE 1808 20% R150UM ABT 20KG MBG,Caseinate,Portena - NL,Europe,0.04,Small Customer
+4,104504 - NACTE 1808 20% R150UM ABT 20KG MBG,Caseinate,Portena - NL,Europe,0.18,Van Dalen Dairy Trading
+4,104517 - CaCte 3800 Sstab 20kg MBG,Caseinate,Portena - NL,Europe,0.1,Azelis
+4,104517 - CaCte 3800 Sstab 20kg MBG,Caseinate,Portena - NL,Europe,3.6,Celia Laiterie de Craon
+4,104517 - CaCte 3800 Sstab 20kg MBG,Caseinate,Portena - NL,Europe,1.7999999999999998,Condio
+4,104517 - CaCte 3800 Sstab 20kg MBG,Caseinate,Portena - NL,Europe,7.8,Lactoland
+4,104517 - CaCte 3800 Sstab 20kg MBG,Caseinate,Portena - NL,Europe,1.6400000000000001,Small Customer
+4,104517 - CaCte 3800 Sstab 20kg MBG,Caseinate,Portena - NL,Europe,1.2,Univar Solutions
+4,104517 - CaCte 3800 Sstab 20kg MBG,Caseinate,Portena - NL,Europe,0.06,Van Dalen Dairy Trading
+4,104527 - CACTE 3808 SSTAB ABT 20KG MBG,Caseinate,Portena - NL,Europe,205.92000000000002,Abbott
+4,104527 - CACTE 3808 SSTAB ABT 20KG MBG,Caseinate,Portena - NL,Europe,0.04,Small Customer
+4,104527 - CACTE 3808 SSTAB ABT 20KG MBG,Caseinate,Portena - NL,Europe,0.32,Van Dalen Dairy Trading
+4,104528 - CaCte 3851 Sstab Disp EUR 20kg MBG,Caseinate,Portena - NL,Europe,2.4000000000000004,Lacona Nahrungsmittel
+4,104562 - WPC80 SUL 322 K 25KG MBG,WPC,Portena - NL,Europe,0.45,Alinda-Velco
+4,104603 - ACas 7200 Lac 30# 12% 25kg MBG,Casein,Plant - NZ,Europe,224.05,Agrocomplex
+4,104603 - ACas 7200 Lac 30# 12% 25kg MBG,Casein,Plant - NZ,Europe,93.7,Hans J. Heinemann
+4,104603 - ACas 7200 Lac 30# 12% 25kg MBG,Casein,Plant - NZ,Europe,453.9,Hoogwegt
+4,104603 - ACas 7200 Lac 30# 12% 25kg MBG,Casein,Plant - NZ,Europe,499.9,MGL
+4,104608 - ACas 7300 Lac Tech 30# 12% 25kg MBG,Casein,Plant - NZ,Europe,50.1,Millenis
+4,104608 - ACas 7300 Lac Tech 30# 12% 25kg MBG,Casein,Plant - NZ,Europe,48,Univar Solutions
+4,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Plant - NZ,Asia,709.6750000000001,FrieslandCampina
+4,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Plant - NZ,Europe,166.95,Lactoland
+4,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Plant - NZ,Europe,190.575,MGL
+4,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Plant - NZ,Europe (UK),23.875,Univar Solutions
+4,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Portena - NL,Europe,151,FrieslandCampina
+4,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Portena - NL,Europe,48,Lactoland
+4,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Portena - NL,Europe,0.07500000000000001,Small Customer
+4,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Portena - NL,Europe,5.4,Solabia Group
+4,104613 - ACas 7417 Min 30# all-in 10% 25kg MBG,Casein,Portena - NL,Europe,0.125,Van Dalen Dairy Trading
+4,104614 - ACas 7417 Min 30# all-in 10% 25kg PPK,Casein,Plant - NZ,Europe,2988.175,Agrocomplex
+4,104642 - WPI 895 IX 25KG MBG,WPC,Portena - NL,Europe,6.574999999999999,Aminolabs
+4,104642 - WPI 895 IX 25KG MBG,WPC,Portena - NL,Europe,82.175,Anona
+4,104642 - WPI 895 IX 25KG MBG,WPC,Portena - NL,Europe,0.55,Small Customer
+4,104642 - WPI 895 IX 25KG MBG,WPC,Portena - NL,Europe,0.125,Van Dalen Dairy Trading
+4,104650 - WHEY HYD 821 HA 15KG MBG,Whey,Portena - NL,Europe,0.72,Van Lindenberg Trading
+4,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Portena - NL,Europe,1.5,Alinda-Velco
+4,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Portena - NL,Europe,9.5,Anona
+4,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Portena - NL,Europe,2.25,Azelis
+4,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Portena - NL,Europe,6,Frulact Portugal
+4,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Portena - NL,Europe,22.4,Nutrichem Diat Pharma
+4,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Portena - NL,Europe,292.225,Small Customer
+4,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Portena - NL,Europe,37.5,Sternmaid
+4,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Portena - NL,Europe,3.375,Univar Solutions
+4,104668 - MLKMIN 997 UHT 25KG MBG,Whey,Portena - NL,Europe,0.175,Van Dalen Dairy Trading
+4,105249 - Btr US MAR 25kgCTN,Butter,Plant - NZ,Africa,201.5,BEL Group
+4,105577 - BTR US 25KG CTN,Butter,Plant - NZ,Asia,478.5,BEL Group
+4,105577 - BTR US 25KG CTN,Butter,Plant - NZ,Europe (UK),9.8,Greenfields
+4,107692 - AMF SMF27 729D 210kgDR,AMF,Plant - NZ,Europe,1553.1599999999999,Interfood
+4,107730 - WPC 80 Chs 3925 K 25kgMBG,WPC,Schiphol Airport - NL,Europe,0.6,Small Customer
+4,107766 - AMF SMF42 210KG DRM,AMF,Amsterdam - NL,Europe,193.2,Interfood
+4,108046 - Btr Lac Amx 25kgCTN,Butter,Amsterdam - NL,Europe,22,Vandemoortele
+4,108046 - Btr Lac Amx 25kgCTN,Butter,Plant - NZ,Europe,141.85,Burt Lewis
+4,108046 - Btr Lac Amx 25kgCTN,Butter,Plant - NZ,Europe (UK),1.4,Greenfields
+4,108046 - Btr Lac Amx 25kgCTN,Butter,Plant - NZ,Europe,1962.675,Interfood
+4,108046 - Btr Lac Amx 25kgCTN,Butter,Plant - NZ,Europe,277.2,Small Customer
+4,108054 - Btr Lac Ftz 25kgCTN,Butter,Plant - NZ,Europe (UK),1.4,Greenfields
+4,109191 - CHED GT MCR FZN A7 20KG CTN,Cheese,Plant - NZ,Africa,327.4,BEL Group
+4,109191 - CHED GT MCR FZN A7 20KG CTN,Cheese,Plant - NZ,Asia,428.56,BEL Group
+4,109216 - STNMD NACTE 1808 ABT 400KG BBG,Caseinate,Sternmaid GmbH - DE,Europe,270.40000000000003,Abbott
+4,109286 - STNMD ACAS 741 MIN 30M HAL/K 950KG BBG,Casein,Sternmaid GmbH - DE,Europe,174.8,FrieslandCampina
+4,109489 - Btr US Ftz EUR QUOTA 25kgCTN,Butter,Plant - NZ,Europe,1660.3,Interfood
+4,109646 - MPC85 4861 CWS K US ABT 20KG PPK,MPC,Jonker & Schut - NL,Europe,0.22,Van Lindenberg Trading
+4,109646 - MPC85 4861 CWS K US ABT 20KG PPK,MPC,Portena - NL,Europe,156,Abbott
+4,109646 - MPC85 4861 CWS K US ABT 20KG PPK,MPC,Portena - NL,Europe,0.04,Small Customer
+4,109646 - MPC85 4861 CWS K US ABT 20KG PPK,MPC,Sternmaid GmbH - DE,Europe,0.08,Van Dalen Dairy Trading
+4,109717 - WHEY HYD 821 ABT 15KG MBG,Whey,Portena - NL,Europe,0.72,Small Customer
+4,109717 - WHEY HYD 821 ABT 15KG MBG,Whey,Schiphol Airport - NL,Europe,0.3,Small Customer
+4,110170 - CaCte 3808 Sstab ABT 20kg MBG,Caseinate,Jonker & Schut - NL,Europe,0.14,Van Lindenberg Trading
+4,110170 - CaCte 3808 Sstab ABT 20kg MBG,Caseinate,Portena - NL,Europe,171.6,Abbott
+4,110170 - CaCte 3808 Sstab ABT 20kg MBG,Caseinate,Portena - NL,Europe,0.04,Small Customer
+4,110170 - CaCte 3808 Sstab ABT 20kg MBG,Caseinate,Portena - NL,Europe,0.18,Van Dalen Dairy Trading
+4,110170 - CaCte 3808 Sstab ABT 20kg MBG,Caseinate,Sternmaid GmbH - DE,Europe,0.26,Van Dalen Dairy Trading
+4,110194 - CHED 545D FZN MCR A6 20KG CTN,Cheese,Plant - NZ,Africa,25.2,BEL Group
+4,110645 - AMF PREM K/HAL/MUI 210KG DRM,AMF,Plant - NZ,Europe,604.8000000000001,Barry Callebaut
+4,110645 - AMF PREM K/HAL/MUI 210KG DRM,AMF,Plant - NZ,Europe,806.4000000000001,Burt Lewis
+4,110645 - AMF PREM K/HAL/MUI 210KG DRM,AMF,Plant - NZ,Europe,705.6,Flechard
+4,110645 - AMF PREM K/HAL/MUI 210KG DRM,AMF,Plant - NZ,Africa,319.2,FrieslandCampina
+4,110645 - AMF PREM K/HAL/MUI 210KG DRM,AMF,Plant - NZ,Asia,1646.4,FrieslandCampina
+4,110645 - AMF PREM K/HAL/MUI 210KG DRM,AMF,Plant - NZ,Europe,1184.4,Royal Vivbusiman
+4,110739 - gDT AMF Prem 210kg DR,AMF,Plant - NZ,Africa,739.2,FrieslandCampina
+4,110739 - gDT AMF Prem 210kg DR,AMF,Plant - NZ,Asia,2031.5400000000002,FrieslandCampina
+4,110927 - BtrUS Amx K 25kgCTN,Butter,Plant - NZ,Europe (UK),1.2,Greenfields
+4,110927 - BtrUS Amx K 25kgCTN,Butter,Plant - NZ,Europe,276.725,Interfood
+4,111061 - DC WHEY HYD 917 HAL/K 25KG MBG,Whey,Portena - NL,Europe,14.649999999999999,DMK Group
+4,111061 - DC WHEY HYD 917 HAL/K 25KG MBG,Whey,Portena - NL,Europe,0.025,Fonterra
+4,111061 - DC WHEY HYD 917 HAL/K 25KG MBG,Whey,Portena - NL,Europe,2.625,Nestle
+4,111061 - DC WHEY HYD 917 HAL/K 25KG MBG,Whey,Portena - NL,Europe,7.425000000000001,Small Customer
+4,111061 - DC WHEY HYD 917 HAL/K 25KG MBG,Whey,Portena - NL,Europe,0.75,Unionplus
+4,111061 - DC WHEY HYD 917 HAL/K 25KG MBG,Whey,Portena - NL,Europe,0.125,Van Dalen Dairy Trading
+4,111115 - gDT AMF PREM 1000kgSKT 230V,AMF,Plant - NZ,Europe,40,Burt Lewis
+4,111254 - MPC>=80% 4862 CWS 15kgMBG,MPC,Plant - NZ,Europe,2.88,Alinda-Velco
+4,111266 - gDT BMP REM/UHT 25kgMBG RM,BMP,Plant - NZ,Asia,16,FrieslandCampina
+4,111267 - SMP Inst 25kgMBG RM,SMP,Plant - NZ,Asia,596.2,FrieslandCampina
+4,111334 - STMAID CaCte380 Sstab K ABT EUR 400kgBBG,Caseinate,Sternmaid GmbH - DE,Europe,83.2,Abbott
+4,111475 - WMP Reg UHT 25kgMBG RM,WMP,Plant - NZ,Asia,55,FrieslandCampina
+4,111522 - BMP REM/UHT 25kgMBG RM,BMP,Plant - NZ,Asia,5372.25,FrieslandCampina
+4,111597 - GDT CHED 545D MFR YNG WSH A6 20KG CTN,Cheese,Plant - NZ,Africa,25.16,BEL Group
+4,111600 - GDT CHED FZN MCR 545D A6 20KG CTN,Cheese,Plant - NZ,Africa,252,BEL Group
+4,111650 - SMP Reg MH FLC 25kgMBG RM,SMP,Plant - NZ,Asia,435.55,FrieslandCampina
+4,111651 - SMP Reg UHT FLC 25kgMBG RM,SMP,Plant - NZ,Asia,1637.975,FrieslandCampina
+4,111683 - DC NACTE 167 HAL/K 20KG MBG,Caseinate,Portena - NL,Europe,182,Abbott
+4,111683 - DC NACTE 167 HAL/K 20KG MBG,Caseinate,Portena - NL,Europe,0.02,Small Customer
+4,111683 - DC NACTE 167 HAL/K 20KG MBG,Caseinate,Portena - NL,Europe,0.42,Van Dalen Dairy Trading
+4,111789 - gDT SMP Reg MH FLC 25kgMBG RM,SMP,Plant - NZ,Asia,306,FrieslandCampina
+4,111819 - FIA SMP Reg MH 25kgMBG,SMP,Plant - NZ,Asia,1582.2749999999999,FrieslandCampina
+4,112081 - GDT WMP INST A&D FLC 25KG MBG RM,WMP,Plant - NZ,Asia,1857.1,FrieslandCampina
+4,112086 - WMP INST A&D FRC 25KG MBG,WMP,Plant - NZ,Africa,16096.65,FrieslandCampina
+4,112086 - WMP INST A&D FRC 25KG MBG,WMP,Plant - NZ,Asia,1257.75,FrieslandCampina
+4,112284 - WPC80 CHS 550 25KG MBG (FUNCTIONAL),WPC,Plant - NZ,Europe,216,Burt Lewis
+4,112284 - WPC80 CHS 550 25KG MBG (FUNCTIONAL),WPC,Portena - NL,Europe,138.625,Condio
+4,112284 - WPC80 CHS 550 25KG MBG (FUNCTIONAL),WPC,Portena - NL,Europe,363.84999999999997,Elsdorfer Molkerei
+4,112284 - WPC80 CHS 550 25KG MBG (FUNCTIONAL),WPC,Portena - NL,Europe,55.2,Fayrefield
+4,112284 - WPC80 CHS 550 25KG MBG (FUNCTIONAL),WPC,Portena - NL,Europe,3.875,Nestle
+4,112284 - WPC80 CHS 550 25KG MBG (FUNCTIONAL),WPC,Portena - NL,Europe,0.17500000000000002,Small Customer
+4,112284 - WPC80 CHS 550 25KG MBG (FUNCTIONAL),WPC,Portena - NL,Europe,13.85,Unionplus
+4,112284 - WPC80 CHS 550 25KG MBG (FUNCTIONAL),WPC,Portena - NL,Europe,1.075,Van Dalen Dairy Trading
+4,112476 - AMF FFMR K FINZ 25KG CTN,AMF,Plant - NZ,Europe (UK),1.4,Greenfields
+4,112484 - AMF Prem K RUS 1000kgSKT 230V,AMF,Plant - NZ,Europe,18,Burt Lewis
+4,112563 - gDT Btr S 25kgCTN,Butter,Plant - NZ,Europe (UK),126,Greenfields
+4,112611 - MPC85 4882 CWS K 20kgMBG,MPC,Plant - NZ,Europe,87,Alinda-Velco
+4,112882 - WMP INST A&D FLC 25KG MBG RM,WMP,Plant - NZ,Africa,24.4,FrieslandCampina
+4,112882 - WMP INST A&D FLC 25KG MBG RM,WMP,Plant - NZ,Asia,151.2,FrieslandCampina
+4,112960 - MPC85 4882 MEDAPP HAL/K 20KG MBG,MPC,Portena - NL,Europe,74.46000000000001,Nestle
+4,112960 - MPC85 4882 MEDAPP HAL/K 20KG MBG,MPC,Portena - NL,Europe,0.04,Small Customer
+4,112960 - MPC85 4882 MEDAPP HAL/K 20KG MBG,MPC,Portena - NL,Europe,0.1,Van Dalen Dairy Trading
+4,112960 - MPC85 4882 MEDAPP HAL/K 20KG MBG,MPC,Sternmaid GmbH - DE,Europe,0.58,Nestle
+4,113056 - WPI 895 IX K EU FRC 25KG MBG,WPC,Portena - NL,Europe,3.75,FrieslandCampina
+4,113056 - WPI 895 IX K EU FRC 25KG MBG,WPC,Schiphol Airport - NL,Europe,15.575,FrieslandCampina
+4,113085 - gDT AMF Prem CHN 210kg DR,AMF,Plant - NZ,Europe,268.8,Barry Callebaut
+4,113085 - gDT AMF Prem CHN 210kg DR,AMF,Plant - NZ,Europe,117.60000000000001,Flechard
+4,113165 - ROKI WPC80 CHS 392 K 20KG MBG,WPC,Rokiskio - LT,Europe,10.56,Azelis
+4,113165 - ROKI WPC80 CHS 392 K 20KG MBG,WPC,Rokiskio - LT,Europe,0.02,Small Customer
+4,113165 - ROKI WPC80 CHS 392 K 20KG MBG,WPC,Rokiskio - LT,Europe,7.92,Sternmaid
+4,113165 - ROKI WPC80 CHS 392 K 20KG MBG,WPC,Rokiskio - LT,Europe,10.56,Univar Solutions
+4,113298 - Swiss Type Mcr Prc C10 2x10kgCTN Act,Cheese,Plant - NZ,Asia,78.64,BEL Group
+4,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Portena - NL,Europe,17.2,Aminolabs
+4,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Portena - NL,Europe,10.2,Anona
+4,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Portena - NL,Europe,6,Hearthside
+4,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Portena - NL,Europe,12.6,JLB Process Drome
+4,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Portena - NL,Europe,19.2,Lactoland
+4,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Portena - NL,Europe,0.02,Small Customer
+4,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Portena - NL,Europe,1.8,Sternmaid
+4,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Portena - NL,Europe,43.2,Univar Solutions
+4,113329 - CaCte 390 SusStab Disp K 20kgMBG,Caseinate,Portena - NL,Europe,0.34,Van Dalen Dairy Trading
+4,113628 - AMF PREM 1000kgSKT 230V,AMF,Plant - NZ,Europe,936,Kelsen Group
+4,113998 - FNL LAC MHYD UNMILLED 1000KG,Lactose,Gregory - UK,Europe (UK),23,Small Customer
+4,113998 - FNL LAC MHYD UNMILLED 1000KG,Lactose,Port - UK,Europe (UK),2331,Saputo Dairy
+4,113998 - FNL LAC MHYD UNMILLED 1000KG,Lactose,Portena - NL,Europe,2,Van Dalen Dairy Trading
+4,114044 - SD WPC80 Chs 20kgMBG,WPC,Portena - NL,Europe,3.1,Feed & Food
+4,114044 - SD WPC80 Chs 20kgMBG,WPC,Portena - NL,Europe,0.8,Van Lindenberg Trading
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,43.2,Alphacaps
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,35.2,Anona
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,0.14,Azelis
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,35.2,Bempresa
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,7.04,Big Wave Company
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,0.08,Fonterra
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,140.70000000000002,Harrison Sport Nutrition
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,86.04,Industrieberatung J.Knobel
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Asia,287.94,Jinan Guanruite
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,1.6,Lacona Nahrungsmittel
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,44.800000000000004,Medix Laboratoires
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,19.200000000000003,Nutrichem Diat Pharma
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,1.8,Schreiber Foods
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,0.04,Small Customer
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,52.800000000000004,Sponser Sport Food
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,10.4,Sports Nutrition House
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,0.02,Unionplus
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,20.82,Univar Solutions
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,0.06,Van Dalen Dairy Trading
+4,114068 - FNL WPC80 CHS 392 20KG MBG,WPC,Portena - NL,Europe,5.6,Vreugdenhil
+4,114080 - SD Lactose Fl 25kgMBG,Lactose,Portena - NL,Europe,24.65,Van Dalen Dairy Trading
+4,114080 - SD Lactose Fl 25kgMBG,Lactose,Portena - NL,Europe,24.25,Van Lindenberg Trading
+4,114081 - SD Lactose Fl 1000kgBBG,Lactose,Portena - NL,Europe,17,Feed & Food
+4,114081 - SD Lactose Fl 1000kgBBG,Lactose,Portena - NL,Europe,39,Van Lindenberg Trading
+4,114103 - SD WPI 20kgMBG,WPC,Portena - NL,Europe,1.6,Van Dalen Dairy Trading
+4,114104 - FNL WPC 356 20KG MBG,WPC,Portena - NL,Europe,28,Alinda-Velco
+4,114104 - FNL WPC 356 20KG MBG,WPC,Portena - NL,Europe,52.82000000000001,Bempresa
+4,114104 - FNL WPC 356 20KG MBG,WPC,Portena - NL,Europe,8,MGL
+4,114104 - FNL WPC 356 20KG MBG,WPC,Portena - NL,Europe,8,Medix Laboratoires
+4,114104 - FNL WPC 356 20KG MBG,WPC,Portena - NL,Europe,12,NEN-Produkter
+4,114104 - FNL WPC 356 20KG MBG,WPC,Portena - NL,Europe,1.6,Small Customer
+4,114104 - FNL WPC 356 20KG MBG,WPC,Portena - NL,Europe,78.28,Univar Solutions
+4,114130 - FNL PL WPC80 CHS 20KG MBG,WPC,Portena - NL,Europe,17.6,Bempresa
+4,114130 - FNL PL WPC80 CHS 20KG MBG,WPC,Portena - NL,Europe,3.68,Industrieberatung J.Knobel
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,17.6,Agrocomplex
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Africa,8,Alarabia Company
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,17.6,Alinda-Velco
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,80,Alphacaps
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,600.74,Aminolabs
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,228.8,Anona
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,5.38,Big Wave Company
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,5.2,Bionatin
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Africa,0.8,EK Ingredients
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Africa,11.2,Ek Ingredients
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,0.1,Fonterra
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,563.1800000000001,Harrison Sport Nutrition
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,144.8,Hoogwegt
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,140.8,JLB Process Drome
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,158.4,Lactoland
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,334.40000000000003,Laiterie Triballat
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,88,Medix Laboratoires
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,0.8,Milky Group
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Africa,8,Modern Int. Confectionary
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,35.2,Peter Emming Agrarkontor
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,7.36,Small Customer
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,28,Sports Nutrition House
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,17.6,Sternmaid
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Asia,6,Tayseer Arar Industry Of Dairy
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,5.2,Unionplus
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,155.20000000000002,Univar Solutions
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,0.1,Van Dalen Dairy Trading
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,158.4,Van Lindenberg Trading
+4,114132 - FNL WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,11.2,Vilgain
+4,114133 - FNL PL WPC80 CHS INST 20KG MBG,WPC,Portena - NL,Europe,35.2,Alpha Milkpowders
+4,114133 - FNL PL WPC80 CHS INST 20KG MBG,WPC,Portena - NL,Europe,21.720000000000002,Peter Emming Agrarkontor
+4,114133 - FNL PL WPC80 CHS INST 20KG MBG,WPC,Portena - NL,Europe,11.2,Univar Solutions
+4,114133 - FNL PL WPC80 CHS INST 20KG MBG,WPC,Portena - NL,Europe,35.2,Van Lindenberg Trading
+4,114265 - LSLG Lactose Fl 1000kgBBG Act,Lactose,Portena - NL,Europe,6,Feed & Food
+4,114265 - LSLG Lactose Fl 1000kgBBG Act,Lactose,Portena - NL,Europe,123,Van Dalen Dairy Trading
+4,114265 - LSLG Lactose Fl 1000kgBBG Act,Lactose,Portena - NL,Europe,53,Van Lindenberg Trading
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Port - UK,Europe (UK),1.6,Prinova Group
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,3,Alinda-Velco
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,66,Aminolabs
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,79.2,Anona
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,2.7,Azelis
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,34.2,Big Wave Company
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,2.8000000000000003,Bionatin
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,0.8,Condetta
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Africa,4.8,Ek Ingredients
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,8,Fonterra
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Oceania,8,Fonterra
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,158.4,Harrison Sport Nutrition
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,1.6,Huegli
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,70.4,Lactoland
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,17.6,Lactoprot Deutschland
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,140.78,Laiterie Triballat
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,18.400000000000002,Milky Group
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,6.4,Nutrichem Diat Pharma
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Africa,4.800000000000001,Small Customer
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,0.24000000000000002,Small Customer
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,32,Sports Nutrition House
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Asia,2,Tayseer Arar Industry Of Dairy
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,0.8,Unionplus
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,59.2,Univar Solutions
+4,114266 - FNL WPI 894-INST MF 20KG MBG,WPC,Portena - NL,Europe,0.02,Van Dalen Dairy Trading
+4,114267 - ED WPI Inst Edible 20kgMBG,WPC,Portena - NL,Europe,2.4,Big Wave Company
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,48,Alinda-Velco
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,0.42,Alphacaps
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,28.8,Anona
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,132,Bakoma
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Asia,14.76,Binggrae
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,36,Celia Laiterie de Craon
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,385.56,Condio
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,174.68,Elsdorfer Molkerei
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,703.84,Fayrefield
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,0.1,Fonterra
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,13.200000000000001,Georg Parlasca Keksfabrik
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,0.8,Hearthside
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,4,Herza Schokolade
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,0.2,Industrieberatung J.Knobel
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,2.4000000000000004,Klingele Chocolade
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,0.8,Lactalis
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,13.6,Privatmolkerei Bauer
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,4.800000000000001,Rajo
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,46.26,Small Customer
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,36,Univar Solutions
+4,114272 - FNL WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,0.02,Van Dalen Dairy Trading
+4,114273 - FNL WPC80 CHS 515 20KG MBG FLSH,WPC,Portena - NL,Europe,140.8,Alpha Milkpowders
+4,114273 - FNL WPC80 CHS 515 20KG MBG FLSH,WPC,Portena - NL,Europe,52.800000000000004,Big Wave Company
+4,114273 - FNL WPC80 CHS 515 20KG MBG FLSH,WPC,Portena - NL,Europe,17.6,Hoogwegt
+4,114273 - FNL WPC80 CHS 515 20KG MBG FLSH,WPC,Portena - NL,Europe,26.04,MGL
+4,114273 - FNL WPC80 CHS 515 20KG MBG FLSH,WPC,Portena - NL,Europe,12.8,Peter Emming Agrarkontor
+4,114273 - FNL WPC80 CHS 515 20KG MBG FLSH,WPC,Portena - NL,Europe,0.04,Van Dalen Dairy Trading
+4,114289 - SD HF WPC HiFat 20kgMBG,WPC,Portena - NL,Europe,0.8,Feed & Food
+4,114289 - SD HF WPC HiFat 20kgMBG,WPC,Portena - NL,Europe,8.02,Van Dalen Dairy Trading
+4,114289 - SD HF WPC HiFat 20kgMBG,WPC,Portena - NL,Europe,4.3,Van Lindenberg Trading
+4,114290 - SD WPC80 Chs Inst 20kgMBG,WPC,Portena - NL,Europe,0.04,Feed & Food
+4,114290 - SD WPC80 Chs Inst 20kgMBG,WPC,Portena - NL,Europe,2.4,Van Dalen Dairy Trading
+4,114290 - SD WPC80 Chs Inst 20kgMBG,WPC,Portena - NL,Europe,56.42,Van Lindenberg Trading
+4,114304 - ED WPC80 20KG MBG,WPC,Portena - NL,Europe,2.38,Big Wave Company
+4,114351 - WPC 80 Chs 4501 Inst K 20kgMBG,WPC,Plant - NZ,Europe,96,Burt Lewis
+4,114351 - WPC 80 Chs 4501 Inst K 20kgMBG,WPC,Portena - NL,Europe,7.2,Aminolabs
+4,114351 - WPC 80 Chs 4501 Inst K 20kgMBG,WPC,Portena - NL,Europe,301.8,Anona
+4,114351 - WPC 80 Chs 4501 Inst K 20kgMBG,WPC,Portena - NL,Europe,6.6,Small Customer
+4,114351 - WPC 80 Chs 4501 Inst K 20kgMBG,WPC,Portena - NL,Europe,0.06,Van Dalen Dairy Trading
+4,114455 - ROKI WPC80 Chs 450 Inst K EU 15kgMBG,WPC,Rokiskio - LT,Europe,34.56,Alphacaps
+4,114455 - ROKI WPC80 Chs 450 Inst K EU 15kgMBG,WPC,Rokiskio - LT,Europe,120.96000000000001,Anona
+4,114455 - ROKI WPC80 Chs 450 Inst K EU 15kgMBG,WPC,Rokiskio - LT,Europe,51.84,Big Wave Company
+4,114455 - ROKI WPC80 Chs 450 Inst K EU 15kgMBG,WPC,Rokiskio - LT,Europe,1.08,Brenntag Holding
+4,114455 - ROKI WPC80 Chs 450 Inst K EU 15kgMBG,WPC,Rokiskio - LT,Europe,138.94500000000002,Lactoland
+4,114455 - ROKI WPC80 Chs 450 Inst K EU 15kgMBG,WPC,Rokiskio - LT,Europe,0.03,Small Customer
+4,114455 - ROKI WPC80 Chs 450 Inst K EU 15kgMBG,WPC,Rokiskio - LT,Europe,153.36,Univar Solutions
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Calais Port - FR,Europe,43.975,Celia Laiterie de Craon
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Calais Port - FR,Europe,49.95,Semper
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Asia,40,AHCOF Industrial Dev
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Asia,20,AusNuotore
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Asia,139.9,Bravo Dairy Group
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Asia,2657.3,Fonterra
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Europe,0.07500000000000001,Fonterra
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Oceania,99.825,Fonterra
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Europe (UK),61.9,Kendal Nutricare
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Africa,319.825,Lactalis
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Asia,59.95,Meilu Biotech
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Asia,379.725,Qingdao Nieghbor Trade
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Asia,1054.2,Shanghai Pujia Food
+4,114514 - SAPDUK WHEY PDR DEMIN 90 HAL/K 25KG MBG,Whey,Gregory - UK,Europe (UK),6.25,Small Customer
+4,114574 - MPC70 4703 LH K ABT 20KG MBG,MPC,Jonker & Schut - NL,Europe,15.6,Abbott
+4,114574 - MPC70 4703 LH K ABT 20KG MBG,MPC,Jonker & Schut - NL,Europe,0.12,Van Lindenberg Trading
+4,114574 - MPC70 4703 LH K ABT 20KG MBG,MPC,Portena - NL,Europe,561.6,Abbott
+4,114574 - MPC70 4703 LH K ABT 20KG MBG,MPC,Portena - NL,Europe,0.04,Small Customer
+4,114574 - MPC70 4703 LH K ABT 20KG MBG,MPC,Portena - NL,Europe,0.3,Van Dalen Dairy Trading
+4,114612 - MPC85 4854 LOSRC K EU NES 20KG MBG,MPC,Portena - NL,Europe,1.58,Alinda-Velco
+4,114612 - MPC85 4854 LOSRC K EU NES 20KG MBG,MPC,Portena - NL,Europe,72.6,Nestle
+4,114612 - MPC85 4854 LOSRC K EU NES 20KG MBG,MPC,Portena - NL,Europe,0.04,Small Customer
+4,114612 - MPC85 4854 LOSRC K EU NES 20KG MBG,MPC,Portena - NL,Europe,0.06,Van Dalen Dairy Trading
+4,114631 - LSLG WPC80 CHS 500KG BBG ACT,WPC,Portena - NL,Europe,7.5,Feed & Food
+4,114631 - LSLG WPC80 CHS 500KG BBG ACT,WPC,Portena - NL,Europe,6.5,Van Dalen Dairy Trading
+4,114631 - LSLG WPC80 CHS 500KG BBG ACT,WPC,Portena - NL,Europe,34.5,Van Lindenberg Trading
+4,114647 - SD LACTOSE FLC 1000KG BBG ACT,Lactose,Portena - NL,Europe,50,Feed & Food
+4,114647 - SD LACTOSE FLC 1000KG BBG ACT,Lactose,Portena - NL,Europe,65,Van Lindenberg Trading
+4,114691 - ACAS N7417 MIN 30M 25KG MBG,Casein,Plant - NZ,Asia,251.575,FrieslandCampina
+4,114691 - ACAS N7417 MIN 30M 25KG MBG,Casein,Plant - NZ,Americas,101.025,Solabia Group
+4,114732 - ED HF WPC HIFAT 20KG MBG ACT,WPC,Portena - NL,Europe,2.4,Van Dalen Dairy Trading
+4,114767 - WHEY HYD 7050 15KG MBG,Whey,Portena - NL,Europe,4.02,Lactoland
+4,114767 - WHEY HYD 7050 15KG MBG,Whey,Portena - NL,Europe,18.015,Small Customer
+4,114803 - SAPDUK GOS 57% K/HAL/MUI 1200KG BBN,Lactose,Calais Port - FR,Europe,28.8,Agrana Group
+4,114803 - SAPDUK GOS 57% K/HAL/MUI 1200KG BBN,Lactose,Gregory - UK,Europe (UK),330,Kendal Nutricare
+4,114803 - SAPDUK GOS 57% K/HAL/MUI 1200KG BBN,Lactose,Gregory - UK,Europe,48,Kerry Ingredients
+4,114803 - SAPDUK GOS 57% K/HAL/MUI 1200KG BBN,Lactose,Portena - NL,Europe,3.6,Feed & Food
+4,114808 - DC NACTE 166 HAL/K 20KG MBG,Caseinate,Portena - NL,Europe,288.64,Abbott
+4,114808 - DC NACTE 166 HAL/K 20KG MBG,Caseinate,Portena - NL,Europe,1.54,Van Dalen Dairy Trading
+4,114850 - FNL LAC MHYD 100M NMDI NMLC 25KG MBG,Lactose,Portena - NL,Europe,254.875,Numidia
+4,114856 - SAPDUK WHEY PDR DEMIN 90 HAL/K 1000KG BB,Whey,Calais Port - FR,Europe,242,Alter Farmacia
+4,114856 - SAPDUK WHEY PDR DEMIN 90 HAL/K 1000KG BB,Whey,Calais Port - FR,Europe,720,Celia Laiterie de Craon
+4,114856 - SAPDUK WHEY PDR DEMIN 90 HAL/K 1000KG BB,Whey,Calais Port - FR,Europe,500,Lactalis
+4,114856 - SAPDUK WHEY PDR DEMIN 90 HAL/K 1000KG BB,Whey,Calais Port - FR,Europe,3645,Lactoland
+4,114856 - SAPDUK WHEY PDR DEMIN 90 HAL/K 1000KG BB,Whey,Gregory - UK,Oceania,1400,Fonterra
+4,114856 - SAPDUK WHEY PDR DEMIN 90 HAL/K 1000KG BB,Whey,Gregory - UK,Europe (UK),1074,Kendal Nutricare
+4,114856 - SAPDUK WHEY PDR DEMIN 90 HAL/K 1000KG BB,Whey,Gregory - UK,Europe (UK),8,Small Customer
+4,114868 - SAPDUK WHEY PDR DEMIN 90 GT 25KG MBG,Whey,Calais Port - FR,Europe,42,Numidia
+4,114868 - SAPDUK WHEY PDR DEMIN 90 GT 25KG MBG,Whey,Gregory - UK,Asia,257.75,Fonterra
+4,114868 - SAPDUK WHEY PDR DEMIN 90 GT 25KG MBG,Whey,Gregory - UK,Europe (UK),9.05,Small Customer
+4,114874 - SAPDUK WHEY PDR DEMIN 90 GT 1000KG BBG,Whey,Gregory - UK,Europe (UK),9,Small Customer
+4,114917 - FNL WPC80 CHS 392 JP 20KG MBG,WPC,Portena - NL,Asia,248,Fonterra
+4,114917 - FNL WPC80 CHS 392 JP 20KG MBG,WPC,Portena - NL,Europe,0.06,Fonterra
+4,114917 - FNL WPC80 CHS 392 JP 20KG MBG,WPC,Portena - NL,Europe,0.16,Van Dalen Dairy Trading
+4,114925 - SAPDUK WHEYPDR DEMIN90 DRYBLD 1000KG BBG,Whey,Calais Port - FR,Europe,640,Celia Laiterie de Craon
+4,114925 - SAPDUK WHEYPDR DEMIN90 DRYBLD 1000KG BBG,Whey,Gregory - UK,Europe (UK),3,Small Customer
+4,114990 - SAPDUK SD WHEY PDR DEMIN 90 25KG MBG,Whey,Gregory - UK,Europe (UK),18.95,Small Customer
+4,114991 - SAPDUK SD WHEY PDR DEMIN 90 1000KG BBG,Whey,Gregory - UK,Europe (UK),5,Small Customer
+4,115008 - SAPDUK GOS 57% ORG HAL/MUI 1200KG BBN,Lactose,Calais Port - FR,Europe,81.6,Coop. Isigny Sainte-Mere
+4,115008 - SAPDUK GOS 57% ORG HAL/MUI 1200KG BBN,Lactose,Calais Port - FR,Europe,25.200000000000003,SAS Laita
+4,115008 - SAPDUK GOS 57% ORG HAL/MUI 1200KG BBN,Lactose,Gregory - UK,Europe,25.2,Hochdorf Nutrition
+4,115008 - SAPDUK GOS 57% ORG HAL/MUI 1200KG BBN,Lactose,Gregory - UK,Europe (UK),203.625,Kendal Nutricare
+4,115016 - MPI 4900 K 20KG MBG,MPC,Portena - NL,Europe,9.6,Active Nutrition
+4,115016 - MPI 4900 K 20KG MBG,MPC,Portena - NL,Europe,20.2,Aminolabs
+4,115016 - MPI 4900 K 20KG MBG,MPC,Portena - NL,Europe,9.600000000000001,Azelis
+4,115016 - MPI 4900 K 20KG MBG,MPC,Portena - NL,Europe,0.02,Benfit-Nutrition
+4,115016 - MPI 4900 K 20KG MBG,MPC,Portena - NL,Europe,5.4,Condio
+4,115016 - MPI 4900 K 20KG MBG,MPC,Portena - NL,Europe,16.2,JLB Process Drome
+4,115016 - MPI 4900 K 20KG MBG,MPC,Portena - NL,Europe,0.02,Small Customer
+4,115016 - MPI 4900 K 20KG MBG,MPC,Portena - NL,Europe,9,So Shape
+4,115016 - MPI 4900 K 20KG MBG,MPC,Portena - NL,Europe,13.2,Univar Solutions
+4,115041 - MPC70 4703 LH BEL 20KG MBG,MPC,Plant - NZ,Africa,128,BEL Group
+4,115041 - MPC70 4703 LH BEL 20KG MBG,MPC,Plant - NZ,Asia,101.46000000000001,BEL Group
+4,115053 - AMF K RU 25KG CTN FFMR,AMF,Amsterdam - NL,Europe,86.4,Interfood
+4,115053 - AMF K RU 25KG CTN FFMR,AMF,Plant - NZ,Europe,91.2,Burt Lewis
+4,115053 - AMF K RU 25KG CTN FFMR,AMF,Plant - NZ,Europe,91.175,Interfood
+4,115059 - FNL LAC 100M NUTAPP WETBLD 1000KG BBG,Lactose,Portena - NL,Europe,288,Valio
+4,115061 - FNL LAC 100M NUTAPP WETBLD 25KG MBG,Lactose,Portena - NL,Asia,100,Fonterra
+4,115061 - FNL LAC 100M NUTAPP WETBLD 25KG MBG,Lactose,Portena - NL,Europe,0.025,Small Customer
+4,115074 - FNL LAC 100M MHYD 1000KG BBG,Lactose,Portena - NL,Europe,936,Hochwald
+4,115074 - FNL LAC 100M MHYD 1000KG BBG,Lactose,Portena - NL,Europe,3142,Interfood
+4,115074 - FNL LAC 100M MHYD 1000KG BBG,Lactose,Portena - NL,Europe,1394,Lactoland
+4,115074 - FNL LAC 100M MHYD 1000KG BBG,Lactose,Portena - NL,Europe,2,Van Dalen Dairy Trading
+4,115211 - STNMD MPC85 4851 500KG BBG,MPC,Sternmaid GmbH - DE,Europe,829.471,Abbott
+4,115211 - STNMD MPC85 4851 500KG BBG,MPC,Sternmaid GmbH - DE,Europe,9,Van Dalen Dairy Trading
+4,115297 - FIA PSMP MH UHT TH 25KG MBG,SMP,Plant - NZ,Asia,251.975,FrieslandCampina
+4,115309 - FIA PSMP MH TH 25KG MGB,SMP,Plant - NZ,Asia,1372.2250000000001,FrieslandCampina
+4,115429 - FNL ED LAC MHYD 100M NMDI NMLC 25KG MBG,Lactose,Portena - NL,Europe,14.6,Numidia
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,2.25,Albors
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,118.125,Azelis
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,0.125,Bionatin
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,23.625,Farmel Dairy Products
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Asia,120,Fonterra
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,110,Glenstal Foods
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,34,Interfood
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,404,Lactoland
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,697.65,Numidia
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,0.1,Small Customer
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,24,Unionplus
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,22.5,Univar Solutions
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,0.1,Van Dalen Dairy Trading
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,73.125,Van Hees
+4,115536 - FNL LAC MHYD 100M NZMP 25KG MBG,Lactose,Portena - NL,Europe,49.5,Van Lindenberg Trading
+4,115542 - WPI 8855 IX 20KG MBG,WPC,Portena - NL,Europe,69.98,Aminolabs
+4,115542 - WPI 8855 IX 20KG MBG,WPC,Portena - NL,Europe,1.8,Anona
+4,115542 - WPI 8855 IX 20KG MBG,WPC,Portena - NL,Europe,15.8,Privatmolkerei Bauer
+4,115542 - WPI 8855 IX 20KG MBG,WPC,Portena - NL,Europe,0.02,Small Customer
+4,115542 - WPI 8855 IX 20KG MBG,WPC,Portena - NL,Europe,0.02,Van Dalen Dairy Trading
+4,115644 - FNL SD LAC NMDI NMLC 25KG MBG,Lactose,Portena - NL,Europe,4.5,Albors
+4,115679 - BSGDA BAL MCR A8 2X10KG CTN ACT,Cheese,Plant - NZ,Asia,16.200000000000003,BEL Group
+4,115693 - SAPDUK WHEY PDR DEMIN 90 NES 25KG MBG,Whey,Calais Port - FR,Europe,32.9,Lactoland
+4,115693 - SAPDUK WHEY PDR DEMIN 90 NES 25KG MBG,Whey,Gregory - UK,Africa,1178.7,Fonterra
+4,115693 - SAPDUK WHEY PDR DEMIN 90 NES 25KG MBG,Whey,Gregory - UK,Europe (UK),0.825,Small Customer
+4,115873 - STNMD MPC85 4861 ABT 400KG BBG,MPC,Sternmaid GmbH - DE,Europe,472.40000000000003,Abbott
+4,115927 - WHEYFRAC LF 95% 10KG BAG CTN,Whey,Schiphol Airport - NL,Europe,0.03,Aminolabs
+4,115964 - FNL LAC 100M MHYD VGDH 25KG MBG,Lactose,Portena - NL,Europe,0.025,Van Dalen Dairy Trading
+4,115964 - FNL LAC 100M MHYD VGDH 25KG MBG,Lactose,Portena - NL,Europe,630,Vreugdenhil
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Europe,0.9400000000000001,Azelis
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Europe,720.5,Coop. Isigny Sainte-Mere
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Asia,48,Fonterra
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Europe,22.8,Kerry Ingredients
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Europe,35.2,Lactalis
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Europe,6.4,Nutrichem Diat Pharma
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Europe,0.2,Semper
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Europe,0.04,Small Customer
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Europe,7.2,So Shape
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Europe,1.6,Univar Solutions
+4,115984 - FNL WPC80 CHS 392 NUTING WTBLD 20KG MBG,WPC,Portena - NL,Europe,0.06,Van Dalen Dairy Trading
+4,116003 - FNL ED LAC MHYD 1000KG BBG,Lactose,Portena - NL,Europe,48,Farmel Dairy Products
+4,116003 - FNL ED LAC MHYD 1000KG BBG,Lactose,Portena - NL,Europe,94,Van Dalen Dairy Trading
+4,116048 - FNL LAC MHYD 100M 1000KG BBG,Lactose,Portena - NL,Europe,48,Azelis
+4,116048 - FNL LAC MHYD 100M 1000KG BBG,Lactose,Portena - NL,Europe,7,Feed & Food
+4,116048 - FNL LAC MHYD 100M 1000KG BBG,Lactose,Portena - NL,Oceania,1400,Fonterra
+4,116048 - FNL LAC MHYD 100M 1000KG BBG,Lactose,Portena - NL,Europe,6824,Fresenius
+4,116048 - FNL LAC MHYD 100M 1000KG BBG,Lactose,Portena - NL,Europe,44,Glenstal Foods
+4,116048 - FNL LAC MHYD 100M 1000KG BBG,Lactose,Portena - NL,Europe,390,Numidia
+4,116048 - FNL LAC MHYD 100M 1000KG BBG,Lactose,Portena - NL,Europe,1,Van Dalen Dairy Trading
+4,116048 - FNL LAC MHYD 100M 1000KG BBG,Lactose,Portena - NL,Europe,7056,Vreugdenhil
+4,116220 - FNL ED LAC MHYD 1000KG BBG NO LINER,Lactose,Portena - NL,Europe,13,Van Dalen Dairy Trading
+4,116235 - ROKI WPC 356 HIFAT EU 15KG MBG,WPC,Rokiskio - LT,Europe,171.705,Lactoland
+4,116235 - ROKI WPC 356 HIFAT EU 15KG MBG,WPC,Rokiskio - LT,Europe,161.58,Van Lindenberg Trading
+4,116248 - MPC85 4851 LL K 20KG PPK,MPC,Portena - NL,Europe,3.54,Condio
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,17.28,Active Nutrition
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,10.005,Alpha Milkpowders
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,34.56,Alphacaps
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,140.55,Aminolabs
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,570.24,Anona
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,0.015,Brenntag Holding
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,17.28,Harrison Sport Nutrition
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,17.28,Lactoland
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,17.28,Medix Laboratoires
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,0.015,Small Customer
+4,116274 - ROKI WPI 894-INST MF EU 15KG MBG,WPC,Rokiskio - LT,Europe,90.18,Univar Solutions
+4,116420 - STNMD MPC85 4854 LOSRC NES 550KG BBG,MPC,Portena - NL,Europe,3.3,Alinda-Velco
+4,116420 - STNMD MPC85 4854 LOSRC NES 550KG BBG,MPC,Sternmaid GmbH - DE,Europe,572,Nestle
+4,116420 - STNMD MPC85 4854 LOSRC NES 550KG BBG,MPC,Sternmaid GmbH - DE,Europe,0.55,Van Dalen Dairy Trading
+4,116420 - STNMD MPC85 4854 LOSRC NES 550KG BBG,MPC,Sternmaid GmbH - DE,Europe,0.55,Van Lindenberg Trading
+4,118404 - AMF SMF27 1000KG SKT 230V,AMF,Plant - NZ,Europe,264,Interfood
+4,119209 - FNL WPC80 CHS 392 NUTING WTBLD 680KG BBG,WPC,Portena - NL,Europe,31.28,Alter Farmacia
+4,119209 - FNL WPC80 CHS 392 NUTING WTBLD 680KG BBG,WPC,Portena - NL,Asia,5.44,Fonterra
+4,119209 - FNL WPC80 CHS 392 NUTING WTBLD 680KG BBG,WPC,Portena - NL,Europe,29.92,MEAD Johnson
+4,119209 - FNL WPC80 CHS 392 NUTING WTBLD 680KG BBG,WPC,Portena - NL,Europe,59.84,Semper
+4,119461 - FNL LAC NUTING UNMILLED NZMP 1000KG BBG,Lactose,Portena - NL,Europe,257,Alter Farmacia
+4,119461 - FNL LAC NUTING UNMILLED NZMP 1000KG BBG,Lactose,Portena - NL,Europe,120,Ausnutria Dairy
+4,119496 - FNL WPC 356 NUTING LPD70 20KG MBG,WPC,Portena - NL,Europe,37.12,Ausnutria Dairy
+4,119496 - FNL WPC 356 NUTING LPD70 20KG MBG,WPC,Portena - NL,Europe,32.8,Coop. Isigny Sainte-Mere
+4,119496 - FNL WPC 356 NUTING LPD70 20KG MBG,WPC,Portena - NL,Asia,47.980000000000004,Fonterra
+4,119496 - FNL WPC 356 NUTING LPD70 20KG MBG,WPC,Portena - NL,Europe,0.04,Fonterra
+4,119496 - FNL WPC 356 NUTING LPD70 20KG MBG,WPC,Portena - NL,Europe,0.04,Small Customer
+4,119496 - FNL WPC 356 NUTING LPD70 20KG MBG,WPC,Portena - NL,Europe,0.02,Van Dalen Dairy Trading
+4,119540 - FNL WPC80 CHS 550 NUTING 20KG BAG,WPC,Portena - NL,Europe,0.30000000000000004,Agrana Group
+4,119540 - FNL WPC80 CHS 550 NUTING 20KG BAG,WPC,Portena - NL,Europe,10.4,Condio
+4,119540 - FNL WPC80 CHS 550 NUTING 20KG BAG,WPC,Portena - NL,Europe,27.2,Elsdorfer Molkerei
+4,119540 - FNL WPC80 CHS 550 NUTING 20KG BAG,WPC,Portena - NL,Europe,0.08,Fonterra
+4,119540 - FNL WPC80 CHS 550 NUTING 20KG BAG,WPC,Portena - NL,Europe,28.8,Fresenius
+4,119540 - FNL WPC80 CHS 550 NUTING 20KG BAG,WPC,Portena - NL,Europe,17.6,Lactoland
+4,119540 - FNL WPC80 CHS 550 NUTING 20KG BAG,WPC,Portena - NL,Europe,0.02,Schreiber Foods
+4,119540 - FNL WPC80 CHS 550 NUTING 20KG BAG,WPC,Portena - NL,Europe,0.1,Small Customer
+4,119540 - FNL WPC80 CHS 550 NUTING 20KG BAG,WPC,Portena - NL,Europe,0.54,Univar Solutions
+4,119565 - FNL LAC NUTING UNMILLED 1000KG BBG,Lactose,Portena - NL,Europe,677,Alter Farmacia
+4,119565 - FNL LAC NUTING UNMILLED 1000KG BBG,Lactose,Portena - NL,Europe,2352,Ausnutria Dairy
+4,119565 - FNL LAC NUTING UNMILLED 1000KG BBG,Lactose,Portena - NL,Europe,1484,MEAD Johnson
+4,119565 - FNL LAC NUTING UNMILLED 1000KG BBG,Lactose,Portena - NL,Europe,1,Van Dalen Dairy Trading
+4,119834 - SAPDUK GOS 57% HAL/MUI 1200KG BBN BCE,Lactose,Calais Port - FR,Europe,48,AS Solbritt
+4,119834 - SAPDUK GOS 57% HAL/MUI 1200KG BBN BCE,Lactose,Calais Port - FR,Europe,166.79999999999998,Alter Farmacia
+4,119834 - SAPDUK GOS 57% HAL/MUI 1200KG BBN BCE,Lactose,Calais Port - FR,Europe,69.6,MEAD Johnson
+4,119834 - SAPDUK GOS 57% HAL/MUI 1200KG BBN BCE,Lactose,Calais Port - FR,Europe,52.8,Pinzgau Milch Produktions
+4,119834 - SAPDUK GOS 57% HAL/MUI 1200KG BBN BCE,Lactose,Calais Port - FR,Europe,196.8,Semper
+4,119834 - SAPDUK GOS 57% HAL/MUI 1200KG BBN BCE,Lactose,Gregory - UK,Oceania,192,Fonterra
+4,119879 - SAPDUK WHEY PDR DEMIN 90 ANUT 1000KG BBG,Whey,Calais Port - FR,Europe,724,Ausnutria Dairy
+4,119879 - SAPDUK WHEY PDR DEMIN 90 ANUT 1000KG BBG,Whey,Gregory - UK,Europe (UK),2,Small Customer
+4,120066 - SAPDUK GOS 57% HAL/MUI 1000KG BBN BCE,Lactose,Calais Port - FR,Europe,60,Nestle
+4,120104 - AWAR MOZZ TMS BLOK FZN A12 KR 2X10KG CTN,Cheese,Daalimpex Harlingen - NL,Asia,144,Jangan Dairy
+4,120104 - AWAR MOZZ TMS BLOK FZN A12 KR 2X10KG CTN,Cheese,Daalimpex Harlingen - NL,Asia,36,Kingsco
+4,120104 - AWAR MOZZ TMS BLOK FZN A12 KR 2X10KG CTN,Cheese,Daalimpex Harlingen - NL,Asia,144,Konkuk Dairy
+4,120104 - AWAR MOZZ TMS BLOK FZN A12 KR 2X10KG CTN,Cheese,Daalimpex Harlingen - NL,Asia,144.76,MS Trading
+4,120166 - WPC80 CHS 550 MEDAPP LL FUNC 25KG MBG,WPC,Kloosterboer - NL,Europe,10.5,Fayrefield
+4,120166 - WPC80 CHS 550 MEDAPP LL FUNC 25KG MBG,WPC,Kloosterboer - NL,Europe,0.075,Fonterra
+4,120166 - WPC80 CHS 550 MEDAPP LL FUNC 25KG MBG,WPC,Kloosterboer - NL,Europe,53.175,Nestle
+4,120208 - FNL WPC80 680KG BBG,WPC,Portena - NL,Europe,70.72,Van Lindenberg Trading
+4,120218 - TMP 1000 MILLED 25KG PPK,Casein,Portena - NL,Europe,0.025,Alinda-Velco
+4,120218 - TMP 1000 MILLED 25KG PPK,Casein,Portena - NL,Europe,13.275,Univar Solutions
+4,120270 - SAPDUK GOS 57% 1200KG BBN,Lactose,Calais Port - FR,Europe,128.4,Nestle
+4,120270 - SAPDUK GOS 57% 1200KG BBN,Lactose,Gregory - UK,Europe,133.2,Nestle
+4,120351 - NZMP CRMCHS CURD 20KG CTN,Cheese,Plant - NZ,Asia,373.58,BEL Group
+4,120388 - FNL SD WPC80 CHS 680KG BBG,WPC,Portena - NL,Europe,1.36,Van Lindenberg Trading
+4,120436 - AWAR UHT CRM EX WHIP ANC 12X1L CTN KR LM,Cons. UHT,Daalimpex Harlingen - NL,Asia,426.781,Bestro
+4,120436 - AWAR UHT CRM EX WHIP ANC 12X1L CTN KR LM,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.024,Fonterra
+4,120436 - AWAR UHT CRM EX WHIP ANC 12X1L CTN KR LM,Cons. UHT,Daalimpex Harlingen - NL,Asia,193.815,Lotte Group
+4,120436 - AWAR UHT CRM EX WHIP ANC 12X1L CTN KR LM,Cons. UHT,Daalimpex Harlingen - NL,Asia,43.34,Sunrich
+4,120436 - AWAR UHT CRM EX WHIP ANC 12X1L CTN KR LM,Cons. UHT,Daalimpex Harlingen - NL,Africa,59.122,United Grocers Co
+4,120475 - SAPDUK WHEY PDR DEMIN 90 MIN 25KG MBG,Whey,Calais Port - FR,Europe,1931.5,Coop. Isigny Sainte-Mere
+4,120475 - SAPDUK WHEY PDR DEMIN 90 MIN 25KG MBG,Whey,Gregory - UK,Europe (UK),2,Small Customer
+4,120476 - AWAR UHT CRM EX WHIP ANC 12X1L CTN SEA,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.012,Fonterra
+4,120798 - WPC80 CHS 550 MEDAPP 25KG MBG,WPC,Jonker & Schut - NL,Europe,5.975,Nestle
+4,120798 - WPC80 CHS 550 MEDAPP 25KG MBG,WPC,Portena - NL,Europe,13.25,Nestle
+4,120798 - WPC80 CHS 550 MEDAPP 25KG MBG,WPC,Portena - NL,Europe,0.025,Small Customer
+4,120798 - WPC80 CHS 550 MEDAPP 25KG MBG,WPC,Sternmaid GmbH - DE,Europe,0.525,Nestle
+4,120840 - FNL WPC80 CHS 392 NUTING 680KG BBG,WPC,Portena - NL,Europe,14.96,Alter Farmacia
+4,120840 - FNL WPC80 CHS 392 NUTING 680KG BBG,WPC,Portena - NL,Europe,179.52,Semper
+4,120869 - FNL SD WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,13.16,Van Lindenberg Trading
+4,120872 - FNL ED WPC80 CHS 515 20KG MBG,WPC,Portena - NL,Europe,8.94,Big Wave Company
+4,120874 - WPC80 CHS 450 INST 20KG MBG,WPC,Plant - NZ,Europe,38.08,Burt Lewis
+4,120874 - WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,114.02000000000001,Anona
+4,120874 - WPC80 CHS 450 INST 20KG MBG,WPC,Portena - NL,Europe,0.02,Van Dalen Dairy Trading
+4,120931 - WPI 895-INST IX 20KG MBG,WPC,Portena - NL,Europe,0.02,Anona
+4,120931 - WPI 895-INST IX 20KG MBG,WPC,Portena - NL,Europe,4.92,Small Customer
+4,120931 - WPI 895-INST IX 20KG MBG,WPC,Portena - NL,Europe,6,Univar Solutions
+4,120931 - WPI 895-INST IX 20KG MBG,WPC,Portena - NL,Europe,0.1,Van Dalen Dairy Trading
+4,120941 - DC WHEY HYD 7051 HA HAL/K 500KG BBG,Whey,Plant - NZ,Europe,11,Hochdorf Nutrition
+4,120941 - DC WHEY HYD 7051 HA HAL/K 500KG BBG,Whey,Portena - NL,Europe,60,Hochdorf Nutrition
+4,120941 - DC WHEY HYD 7051 HA HAL/K 500KG BBG,Whey,Portena - NL,Europe,1.5,Van Dalen Dairy Trading
+4,120994 - AWAR UHT CRM CHF CLA CN 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,5107.11,C&D Logistics Group
+4,120994 - AWAR UHT CRM CHF CLA CN 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.33899999999999997,Fonterra
+4,121017 - AWAR TR UHT CRM 38%F 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Europe,17.501,Fayrefield
+4,121036 - AWAR UHT CRM EX YIELD EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.012,Fonterra
+4,121037 - AWAR UHT CRM 12%F 12X1L CTN CARRAGEENAN,Cons. UHT,Daalimpex Harlingen - NL,Europe,11.684,Fayrefield
+4,121038 - BMP BSP NUTING WTBLD ABT 25KG MBG,BMP,Portena - NL,Europe,350.95,Abbott
+4,121038 - BMP BSP NUTING WTBLD ABT 25KG MBG,BMP,Portena - NL,Europe,0.05,Small Customer
+4,121038 - BMP BSP NUTING WTBLD ABT 25KG MBG,BMP,Portena - NL,Europe,0.4,Van Dalen Dairy Trading
+4,121104 - AWAR UHT CRM DESS 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,41.839,Fayrefield
+4,121104 - AWAR UHT CRM DESS 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,83.883,Fonterra
+4,121104 - AWAR UHT CRM DESS 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.157,Fonterra
+4,121118 - AWAR UHT CRM CHF CLA SEA 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,219.39600000000002,Fonterra
+4,121118 - AWAR UHT CRM CHF CLA SEA 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,7.636,Small Customer
+4,121155 - MILEI WHEYFRAC LF 95% 10KG CTN,Whey,Portena - NL,Europe,0.06,Aminolabs
+4,121155 - MILEI WHEYFRAC LF 95% 10KG CTN,Whey,Portena - NL,Europe,0.56,BICT
+4,121155 - MILEI WHEYFRAC LF 95% 10KG CTN,Whey,Portena - NL,Europe,0.3,Bionatin
+4,121155 - MILEI WHEYFRAC LF 95% 10KG CTN,Whey,Portena - NL,Europe,0.1,EHF Production
+4,121155 - MILEI WHEYFRAC LF 95% 10KG CTN,Whey,Portena - NL,Europe,7.44,FrieslandCampina
+4,121155 - MILEI WHEYFRAC LF 95% 10KG CTN,Whey,Portena - NL,Africa,0.5,Hygint Pharma
+4,121155 - MILEI WHEYFRAC LF 95% 10KG CTN,Whey,Portena - NL,Europe,0.02,Laboratorium Medisan
+4,121155 - MILEI WHEYFRAC LF 95% 10KG CTN,Whey,Portena - NL,Europe,0.1,Mattisson Healthcare
+4,121155 - MILEI WHEYFRAC LF 95% 10KG CTN,Whey,Portena - NL,Europe,0.09,Small Customer
+4,121156 - AWAR UHT CRM EX YIELD SA 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Africa,64.484,Al Sakr
+4,121156 - AWAR UHT CRM EX YIELD SA 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,189.024,Fonterra
+4,121156 - AWAR UHT CRM EX YIELD SA 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.012,Fonterra
+4,121171 - TR MPC85 4869 FLW AGG 15KG MBG,MPC,Plant - NZ,Europe,15.06,Alinda-Velco
+4,121179 - ROKI WHEYFRAC LF ELUATE 500KG ACT,Whey,Amsterdam - NL,Europe,2151.54,Small Customer
+4,121194 - FNL LAC 100M MHYD NZ 1000KG BBG,Lactose,Portena - NL,Oceania,140,Fonterra
+4,121194 - FNL LAC 100M MHYD NZ 1000KG BBG,Lactose,Portena - NL,Europe,44,Van Dalen Dairy Trading
+4,121240 - AWAR CUL CRM 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Asia,198.299,Fonterra
+4,121240 - AWAR CUL CRM 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.06,Fonterra
+4,121246 - TR WHEY HYD 7051 15KG MBG,Whey,Portena - NL,Europe,1.725,Small Customer
+4,121250 - AWAR UHT CRM EX YIELD MY 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.622,Fayrefield
+4,121250 - AWAR UHT CRM EX YIELD MY 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,873.986,Fonterra
+4,121250 - AWAR UHT CRM EX YIELD MY 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.012,Fonterra
+4,121333 - AWAR UHT CRM EX YIELD LATAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,703.858,Fonterra
+4,121333 - AWAR UHT CRM EX YIELD LATAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.049,Fonterra
+4,121333 - AWAR UHT CRM EX YIELD LATAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,26.335,Small Customer
+4,121333 - AWAR UHT CRM EX YIELD LATAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Americas,59.619,Suderesa Centram
+4,121344 - AWAR UHT CRM EX WHIP REDMAN 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Asia,135.761,Phoon Huat
+4,121480 - AWAR UHT CRM CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.8,Fayrefield
+4,121480 - AWAR UHT CRM CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.024,Fonterra
+4,121568 - AWAR UHT CRM EURODELICES 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,164.579,Eurodelices
+4,121578 - MPC85 4851 LL K ABT 20KG MBG,MPC,Portena - NL,Europe,5.6,Abbott
+4,121582 - AWAR UHT CRM EX YIELD 12X1L CTN EU,Cons. UHT,Daalimpex Harlingen - NL,Europe,6.144,Accom Holdings
+4,121582 - AWAR UHT CRM EX YIELD 12X1L CTN EU,Cons. UHT,Daalimpex Harlingen - NL,Europe,27.207,B&S Purchase
+4,121582 - AWAR UHT CRM EX YIELD 12X1L CTN EU,Cons. UHT,Daalimpex Harlingen - NL,Europe,199.23,Bidfood
+4,121582 - AWAR UHT CRM EX YIELD 12X1L CTN EU,Cons. UHT,Daalimpex Harlingen - NL,Europe,33.645,DAC
+4,121582 - AWAR UHT CRM EX YIELD 12X1L CTN EU,Cons. UHT,Daalimpex Harlingen - NL,Europe,5.266,Fayrefield
+4,121582 - AWAR UHT CRM EX YIELD 12X1L CTN EU,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.316,Fonterra
+4,121582 - AWAR UHT CRM EX YIELD 12X1L CTN EU,Cons. UHT,Daalimpex Harlingen - NL,Europe,14.043,Harvester Stock
+4,121582 - AWAR UHT CRM EX YIELD 12X1L CTN EU,Cons. UHT,Daalimpex Harlingen - NL,Europe,13.530999999999999,Ireks Aroma
+4,121582 - AWAR UHT CRM EX YIELD 12X1L CTN EU,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.39,Small Customer
+4,121604 - AWAR UHT CRM MA EURODELICES 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,22.458,Eurodelices
+4,121628 - AWAR UHT CRM CUL CRM EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,22.483999999999998,Bidfood
+4,121628 - AWAR UHT CRM CUL CRM EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,11.332,Fayrefield
+4,121628 - AWAR UHT CRM CUL CRM EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.084,Fonterra
+4,121628 - AWAR UHT CRM CUL CRM EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.242,Small Customer
+4,121643 - AWAR ED UHT CRM 30-40%F 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,52.092000000000006,Fayrefield
+4,121672 - AWAR TR UHT CRM CHF CLA STG2 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,2.351,Fayrefield
+4,121679 - AWAR UHT CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,58.473,Accom Holdings
+4,121679 - AWAR UHT CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,138.66400000000002,B&S Purchase
+4,121679 - AWAR UHT CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,126.307,Bidfood
+4,121679 - AWAR UHT CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,11.347,DAC
+4,121679 - AWAR UHT CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.18,Fonterra
+4,121679 - AWAR UHT CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,220.78,Gelato & Bakery Experts
+4,121679 - AWAR UHT CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,319.386,Harvester Stock
+4,121679 - AWAR UHT CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,47.559,Ireks Aroma
+4,121679 - AWAR UHT CHF CLA EU 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.242,Small Customer
+4,121685 - AWAR UHT CRM CHF CLA MDE 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Africa,4.351,Al Sakr
+4,121685 - AWAR UHT CRM CHF CLA MDE 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,51.897,Fonterra
+4,121685 - AWAR UHT CRM CHF CLA MDE 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.012,Fonterra
+4,121691 - AWAR TR UHT CRM CHF CLA SAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.194,Fayrefield
+4,121691 - AWAR TR UHT CRM CHF CLA SAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.024,Fonterra
+4,121694 - AWAR TR UHT CRM EX YIELD SAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.086,Fonterra
+4,121710 - AWAR UHT CRM UHRENHOLT 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.012,Fonterra
+4,121710 - AWAR UHT CRM UHRENHOLT 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,110.402,Uhrenholt
+4,121719 - TR AWAR UHT CRM EX WHIP SAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.181,Fonterra
+4,121742 - AWAR UHT CRM CHF CLA LATAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,21.804,CJ Cheiljedang
+4,121742 - AWAR UHT CRM CHF CLA LATAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,21.804,Dong Suh
+4,121742 - AWAR UHT CRM CHF CLA LATAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.108,Fonterra
+4,121742 - AWAR UHT CRM CHF CLA LATAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,21.392,Samyang
+4,121742 - AWAR UHT CRM CHF CLA LATAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Americas,14.096,Suderesa Centram
+4,121742 - AWAR UHT CRM CHF CLA LATAM 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,40.287,Sunrich
+4,121810 - TR FNL WPC80 CHS 450 INST SOYA 20KG MBG,WPC,Portena - NL,Europe,0.02,Small Customer
+4,121810 - TR FNL WPC80 CHS 450 INST SOYA 20KG MBG,WPC,Portena - NL,Europe,34.68,Van Lindenberg Trading
+4,121904 - HN019 PROBIOTIC POWDER (625G),Probiotic,Plant - NZ,Asia,0.03,FrieslandCampina
+4,121904 - HN019 PROBIOTIC POWDER (625G),Probiotic,Schiphol Airport - NL,Europe,2.19,FrieslandCampina
+4,122034 - AWAR UHT CRM CHF CLA E-MART 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,63.86,EMART
+4,122034 - AWAR UHT CRM CHF CLA E-MART 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.024,Fonterra
+4,122037 - TR FNL WPC80 CHS 450 INST SOY FLUSH 20KG,WPC,Portena - NL,Europe,3.68,Van Lindenberg Trading
+4,122064 - AWAR UHT CKG CRM DESS 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,648.855,Fonterra
+4,122064 - AWAR UHT CKG CRM DESS 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.288,Fonterra
+4,122070 - AWAR UHT CRM CHF CLA CN AFP 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,1840.1570000000002,C&D Logistics Group
+4,122070 - AWAR UHT CRM CHF CLA CN AFP 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,26.178,Fonterra
+4,122070 - AWAR UHT CRM CHF CLA CN AFP 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.131,Fonterra
+4,122216 - STNMD WPC80 CHS 550 MEDAPP NES 625KG BBG,WPC,Sternmaid GmbH - DE,Europe,6.875,Nestle
+4,122281 - AWAR UHT CRM CHF CLA LATAM 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Asia,41.113,CJ Cheiljedang
+4,122281 - AWAR UHT CRM CHF CLA LATAM 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Asia,20.622,Samyang
+4,122288 - AWAR UHT CRM CHF CLA MDE 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Asia,146.856,Fonterra
+4,122292 - AWAR UHT CRM CUL CRM AFP 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,29.547,Fonterra
+4,122310 - AWAR UHT CKG CRM DESS AFP 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,50.873000000000005,Fonterra
+4,122324 - AWAR UHT CRM CHF CLA SEA 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Asia,236.666,Fonterra
+4,122324 - AWAR UHT CRM CHF CLA SEA 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.119,Fonterra
+4,122324 - AWAR UHT CRM CHF CLA SEA 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Asia,17.095,Small Customer
+4,122328 - AWAR UHT CRM EX WHIP AFP 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,99.199,Bestro
+4,122328 - AWAR UHT CRM EX WHIP AFP 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,19.424,Fonterra
+4,122328 - AWAR UHT CRM EX WHIP AFP 12X1L CTN,Cons. UHT,Daalimpex Harlingen - NL,Asia,20.659,Lotte Group
+4,122338 - AWAR UHT CKG CRM EX YIELD LATAM 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Asia,314.862,Fonterra
+4,122338 - AWAR UHT CKG CRM EX YIELD LATAM 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Europe,0.012,Fonterra
+4,122338 - AWAR UHT CKG CRM EX YIELD LATAM 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Americas,38.968,Suderesa Centram
+4,122348 - MILEI WHEYFRAC LF 95% 9X1KG CTN,Whey,Portena - NL,Europe,0.144,BICT
+4,122367 - AWAR UHT CRM CHF CLA CN AFP 12X1L,Cons. UHT,Daalimpex Harlingen - NL,Asia,377.651,C&D Logistics Group
+4,122373 - FNL WPC 356 NUTING LPD70 20KG MBG,WPC,Portena - NL,Europe,125.52000000000001,Ausnutria Dairy
+4,122377 - STNMD MPC85 4882 NES 620KG BBG,MPC,Sternmaid GmbH - DE,Europe,6.82,Nestle
+4,122381 - J&S MPC70 4703 LH ABT 600KG BBG,MPC,Jonker & Schut - NL,Europe,62.4,Abbott
+4,122428 - J&S MPC85 4851 500KG BBG,MPC,Jonker & Schut - NL,Europe,39,Abbott
+4,122431 - J&S MPC85 4861 ABT 400KG BBG,MPC,Jonker & Schut - NL,Europe,121.60000000000001,Abbott
+4,122439 - J&S MPC85 4854 NES 550KG BBG,MPC,Jonker & Schut - NL,Europe,422.95000000000005,Nestle
+4,122439 - J&S MPC85 4854 NES 550KG BBG,MPC,Jonker & Schut - NL,Europe,3.635,Van Lindenberg Trading
+4,122468 - J&S MPC85 4882 NES 620KG BBG,MPC,Jonker & Schut - NL,Europe,34.1,Nestle
+4,122468 - J&S MPC85 4882 NES 620KG BBG,MPC,Jonker & Schut - NL,Europe,0.454,Van Lindenberg Trading
+4,122478 - J&S WPC80 CHS 550 625KG BBG,WPC,Jonker & Schut - NL,Europe,1.758,Van Lindenberg Trading
+4,122478 - J&S WPC80 CHS 550 625KG BBG,WPC,Kloosterboer - NL,Europe,15,Nestle
+4,122491 - J&S WPC80 CHS 550 NES 625KG BBG,WPC,Jonker & Schut - NL,Europe,16.875,Nestle
+4,122491 - J&S WPC80 CHS 550 NES 625KG BBG,WPC,Jonker & Schut - NL,Europe,1.525,Van Lindenberg Trading
+4,122609 - FNL WPC80 CHS 392 NUTING RB 680KG BBG,WPC,Portena - NL,Asia,54.4,Fonterra
+4,122609 - FNL WPC80 CHS 392 NUTING RB 680KG BBG,WPC,Portena - NL,Europe,14.96,Semper
