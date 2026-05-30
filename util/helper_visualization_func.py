@@ -841,10 +841,20 @@ def createChartTimeView(data,
                     secondary_y=False,
                     )
     
+    # --- Y-Axis 1 Smart Bounds (±10% Mean OR Min/Max) ---
+    mean_1 = data_chart[level_1].mean()
+    min_1 = data_chart[level_1].min()
+    max_1 = data_chart[level_1].max()
+    
+    padding_1 = abs(mean_1 * 0.05)
+    y1_lower = min(min_1 - abs(min_1 * 0.05), mean_1 - padding_1)
+    y1_upper = max(max_1 + abs(max_1 * 0.05), mean_1 + padding_1)
+    
     fig.update_yaxes(title_text="<b>" + unit_dict[level_1] + "</b>", 
                      secondary_y=False,
                      tickfont_color='#385D7F',
-                     title_font_color='#385D7F')
+                     title_font_color='#385D7F',
+                     range=[y1_lower, y1_upper])
 
     
     if level_2 != "":
@@ -870,10 +880,20 @@ def createChartTimeView(data,
                                 marker=dict(color="#a5a5a5")),
                         secondary_y=True)   
         
+        # --- Y-Axis 2 Smart Bounds (±10% Mean OR Min/Max) ---
+        mean_2 = data_chart[level_2].mean()
+        min_2 = data_chart[level_2].min()
+        max_2 = data_chart[level_2].max()
+        
+        padding_2 = abs(mean_2 * 0.05)
+        y2_lower = min(min_2 - abs(min_2 * 0.05), mean_2 - padding_2)
+        y2_upper = max(max_2 + abs(max_2 * 0.05), mean_2 + padding_2)
+        
         fig.update_yaxes(title_text="<b>" + unit_dict[level_2] + "</b>", 
                          secondary_y=True,
                          tickfont_color='#a5a5a5',
-                         title_font_color='#a5a5a5')
+                         title_font_color='#a5a5a5',
+                         range=[y2_lower, y2_upper])
 
         title = title + " vs. " + level_2
 

@@ -40,7 +40,7 @@ def loadGeo():
 def loadInput():
     demo = True
     if demo:
-        input = pd.read_csv('data/profit_by_month_demo_client.csv')
+        input = pd.read_csv('dummy_sc_data_eu/final_profit_and_loss_transactions.csv')
     else:
         input = pd.read_csv('data/profit_by_month.csv')
     
@@ -67,10 +67,10 @@ input_df, level_df = loadInput()
 
 legend_input = loadInput()
 geo_json = loadGeo()
-input_df['MaterialName'] = input_df.Material.astype(str) + " - " + input_df.MaterialDescription
-input_df['ShipToDescription'] = input_df.ShipToParty.astype(str) + " - " + input_df.ShipToName
+input_df['MaterialName'] = input_df.ProductID.astype(str) + " - " + input_df.ProductName
+input_df['ShipToDescription'] = input_df.ShipToID.astype(str) + " - " + input_df.ShipToParty
 input_df = input_df.assign(
-    TotalSnD = lambda x: x.TotalStorageCostPerYear + x.TotalHandlingCost + x.TotalDemurrageCost + x.TotalTransportCost
+    TotalSnD = lambda x: x.TotalStorageCost + x.TotalHandlingCost + x.TotalTransportCost
 )
 list_profitability_level = ['GM', 'CBM', 'CBMAI', 'EBITAI']
 list_profit_include_volume = ["Sales In MT", "Revenue", "GM", "CBM", "CBMAI", "EBITAI"]
@@ -96,7 +96,6 @@ html_content = """
     </ul></p>
     </div>
 """
-
 
 
 # Sidebar ========================================================================================

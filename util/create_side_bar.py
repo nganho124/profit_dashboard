@@ -1,28 +1,32 @@
 import streamlit as st
 import numpy as np
+import pandas as pd
 
 def create_side_bar(input_data):
 
-    list_year = input_data.FY.unique()
+    # list_year = input_data.FY.unique()
     with st.expander("Time"):
 
-        st.markdown("""
-                    <div>
-                    <p>Fiscal Year:</p>
-                    </div>   
-                    """
-                    , unsafe_allow_html=True)
-        year = st.selectbox(
-            label='Choose fiscal year you want to review',
-            options=list_year,
-            # format_func= lambda x: 'Selected all supply flows' if x == '' else x,
-            index = 0,
-            label_visibility='collapsed'            
-        )
+    #     st.markdown("""
+    #                 <div>
+    #                 <p>Fiscal Year:</p>
+    #                 </div>   
+    #                 """
+    #                 , unsafe_allow_html=True)
+        
+    #     year = st.selectbox(
+    #         label='Choose fiscal year you want to review',
+    #         options=list_year,
+    #         # format_func= lambda x: 'Selected all supply flows' if x == '' else x,
+    #         index = 0,
+    #         label_visibility='collapsed'            
+    #     )
     
-        filtered_df = input_data[input_data.FY == year]
+        # filtered_df = input_data[input_data.FY == year]
         list_month_full = input_data.Month.unique().tolist()
-        list_month = filtered_df.Month.unique()
+        sorted_months = sorted(list_month_full, key=lambda x: pd.to_datetime(x, format='%m-%Y'))
+        # list_month = filtered_df.Month.unique()
+        print(sorted_months)
 
         st.markdown("""
                     <div>
@@ -30,44 +34,45 @@ def create_side_bar(input_data):
                     </div>   
                     """
                     , unsafe_allow_html=True)
+        
         month = st.select_slider(
             label= 'Choose which month you want to look at',
-            options=list_month,
+            options=sorted_months,
             label_visibility='collapsed',
-            value=('08-2022', '07-2023')
+            value=('01-2024', '12-2025')
         )
 
-        list_month_selected = list_month_full[list_month_full.index(month[0]):(list_month_full.index(month[1])+1)]
+        list_month_selected = sorted_months[sorted_months.index(month[0]):(sorted_months.index(month[1])+1)]
         
-        filtered_df = filtered_df[filtered_df.Month.isin(list_month_selected)]
+        filtered_df = input_data[input_data.Month.isin(list_month_selected)]
     
-        list_supply_flow = filtered_df.SupplyChainFlow.unique()
-        list_supply_flow_choose = np.concatenate(([""], list_supply_flow), axis=0)
+        # list_supply_flow = filtered_df.SupplyChainFlow.unique()
+        # list_supply_flow_choose = np.concatenate(([""], list_supply_flow), axis=0)
 
 
     with st.expander("Network"):
 
-        st.markdown("""
-                    <div>
-                    <p>Supply Chain Flow:</p>
-                    </div>   
-                    """
-                    , unsafe_allow_html=True)
-        supply_flow = st.selectbox(
-            label='Choose supply chain flow',
-            options=list_supply_flow_choose,
-            format_func= lambda x: 'Selected all' if x == '' else x,
-            index = 0,
-            label_visibility='collapsed'            
-        )
+        # st.markdown("""
+        #             <div>
+        #             <p>Supply Chain Flow:</p>
+        #             </div>   
+        #             """
+        #             , unsafe_allow_html=True)
+        # supply_flow = st.selectbox(
+        #     label='Choose supply chain flow',
+        #     options=list_supply_flow_choose,
+        #     format_func= lambda x: 'Selected all' if x == '' else x,
+        #     index = 0,
+        #     label_visibility='collapsed'            
+        # )
 
-        if supply_flow != "":
+        # if supply_flow != "":
 
-            filtered_df = filtered_df[filtered_df.SupplyChainFlow == supply_flow]
+        #     filtered_df = filtered_df[filtered_df.SupplyChainFlow == supply_flow]
 
-        else:
+        # else:
 
-            filtered_df = filtered_df[filtered_df.SupplyChainFlow.isin(list_supply_flow)]  
+        #     filtered_df = filtered_df[filtered_df.SupplyChainFlow.isin(list_supply_flow)]  
 
         list_facility = filtered_df.FacilityType.unique()   
 
@@ -94,33 +99,33 @@ def create_side_bar(input_data):
 
             filtered_df = filtered_df[filtered_df.FacilityType.isin(list_facility)]
 
-        list_segment = filtered_df.Segment.unique()
-        list_segment_choose = np.concatenate(([""], list_segment), axis=0)
+        # list_segment = filtered_df.Segment.unique()
+        # list_segment_choose = np.concatenate(([""], list_segment), axis=0)
 
 
     with st.expander('Customer'):
 
-        st.markdown("""
-                    <div>
-                    <p>Segment:</p>
-                    </div>   
-                    """
-                    , unsafe_allow_html=True)
-        segmentation = st.selectbox(
-            label='Choose Segmentation',
-            options=list_segment_choose,
-            format_func= lambda x: "Selected all" if x == '' else x,
-            index = 0,
-            label_visibility='collapsed'            
-        )
+        # st.markdown("""
+        #             <div>
+        #             <p>Segment:</p>
+        #             </div>   
+        #             """
+        #             , unsafe_allow_html=True)
+        # segmentation = st.selectbox(
+        #     label='Choose Segmentation',
+        #     options=list_segment_choose,
+        #     format_func= lambda x: "Selected all" if x == '' else x,
+        #     index = 0,
+        #     label_visibility='collapsed'            
+        # )
 
-        if segmentation == "":
+        # if segmentation == "":
 
-            filtered_df = filtered_df[filtered_df.Segment.isin(list_segment)]
+        #     filtered_df = filtered_df[filtered_df.Segment.isin(list_segment)]
         
-        else:
+        # else:
 
-            filtered_df = filtered_df[filtered_df.Segment == segmentation]
+        #     filtered_df = filtered_df[filtered_df.Segment == segmentation]
 
         list_parent_name = filtered_df.Account.unique()
         list_parent_name_choose = np.concatenate(([""], list_parent_name), axis=0)
@@ -175,8 +180,8 @@ def create_side_bar(input_data):
 
             filtered_df = filtered_df.loc[filtered_df.ShipToCountry.isin(list_country)]   
 
-        list_commodity = filtered_df.Commodity.unique()
-        list_commodity_choose = np.concatenate(([""], list_commodity), axis=0)
+        list_category = filtered_df.Category.unique()
+        list_category_choose = np.concatenate(([""], list_category), axis=0)
 
 
     
@@ -184,54 +189,54 @@ def create_side_bar(input_data):
 
         st.markdown("""
                     <div>
-                    <p>Commodity:</p>
+                    <p>Category:</p>
                     </div>   
                     """
                     , unsafe_allow_html=True)
-        commodity = st.selectbox(
+        category = st.selectbox(
             label='Choose material',
-            options=list_commodity_choose,
+            options=list_category_choose,
             format_func= lambda x: 'Selected all' if x == '' else x,
             index = 0,
             # default=list_commodity,
             label_visibility='collapsed'            
         )     
 
-        if commodity != "":
+        if category != "":
 
-            filtered_df = filtered_df.loc[filtered_df.Commodity == commodity]
-
-        else:
-
-            filtered_df = filtered_df.loc[filtered_df.Commodity.isin(list_commodity)]
-
-        list_product_group = filtered_df.ProductGroup.unique() 
-        list_product_group_choose = np.concatenate(([""], list_product_group), axis=0)
-
-        st.markdown("""
-                    <div style="font-size: 5px; font-family: 'HelveticaNeue-Light', Helvetica, Arial, sans-serif; text-align: left; color: #ffffff;">
-                    <p>Product Group:</p>
-                    </div>   
-                    """
-                    , unsafe_allow_html=True)
-        prod_group = st.selectbox(
-            label='Choose material',
-            options=list_product_group_choose,
-            format_func= lambda x: 'Selected all' if x == '' else x,
-            index = 0,
-            label_visibility='collapsed',
-            key=3            
-        )
-
-        if prod_group != "":
-
-            filtered_df = filtered_df.loc[filtered_df.ProductGroup == prod_group]
+            filtered_df = filtered_df.loc[filtered_df.Category == category]
 
         else:
 
-            filtered_df = filtered_df.loc[filtered_df.ProductGroup.isin(list_product_group)]        
+            filtered_df = filtered_df.loc[filtered_df.Category.isin(list_category)]
+
+        # list_product_group = filtered_df.ProductGroup.unique() 
+        # list_product_group_choose = np.concatenate(([""], list_product_group), axis=0)
+
+        # st.markdown("""
+        #             <div style="font-size: 5px; font-family: 'HelveticaNeue-Light', Helvetica, Arial, sans-serif; text-align: left; color: #ffffff;">
+        #             <p>Product Group:</p>
+        #             </div>   
+        #             """
+        #             , unsafe_allow_html=True)
+        # prod_group = st.selectbox(
+        #     label='Choose material',
+        #     options=list_product_group_choose,
+        #     format_func= lambda x: 'Selected all' if x == '' else x,
+        #     index = 0,
+        #     label_visibility='collapsed',
+        #     key=3            
+        # )
+
+        # if prod_group != "":
+
+        #     filtered_df = filtered_df.loc[filtered_df.ProductGroup == prod_group]
+
+        # else:
+
+        #     filtered_df = filtered_df.loc[filtered_df.ProductGroup.isin(list_product_group)]        
         
-        list_origin = filtered_df.ProductOrigin.unique() 
+        list_origin = filtered_df.Country_Facility.unique() 
         list_origin_choose = np.concatenate(([""], list_origin), axis=0)
 
         st.markdown("""
@@ -252,11 +257,11 @@ def create_side_bar(input_data):
 
         if prod_origin != "":
 
-            filtered_df = filtered_df.loc[filtered_df.ProductOrigin == prod_origin]
+            filtered_df = filtered_df.loc[filtered_df.Country_Facility == prod_origin]
 
         else:
 
-            filtered_df = filtered_df.loc[filtered_df.ProductOrigin.isin(list_origin)]        
+            filtered_df = filtered_df.loc[filtered_df.Country_Facility.isin(list_origin)]        
         
         list_material = filtered_df.MaterialName.unique()  
         list_material_choose = np.concatenate(([""], list_material), axis=0)
