@@ -537,14 +537,19 @@ def createHeatmap(data, geo_data, col_name, bins):
                         font-size: 13px;
                     """
     if col_name in ['CBM', 'CBMAI', 'EBITAI', 'GM']:
-        tooltip_f = folium.features.GeoJsonTooltip(
-                    fields=['name', 'Revenue', col_name, 'value_ratio'], 
-                    aliases=['Country:', 'Revenue (€)', f'{col_name} (€)', f'{col_name} on Revenue (%):'],
-                    localize=True,
-                    style=style_tooltip,
-                    max_width=800
-                )
-        color_pallete = ["#D0474E", "#8db6b7", "#72a4a5", "#5c9696"  ,"#287474", "#005959"]
+            tooltip_f = folium.features.GeoJsonTooltip(
+                        fields=['name', 'Revenue', col_name, 'value_ratio'], 
+                        aliases=['Country:', 'Revenue (€)', f'{col_name} (€)', f'{col_name} on Revenue (%):'],
+                        localize=True,
+                        style=style_tooltip,
+                        max_width=800
+                    )
+            
+            # FIX: Only use red if the minimum value in your bins is a negative number
+            if min(bins) < 0:
+                color_pallete = ["#D0474E", "#8db6b7", "#72a4a5", "#5c9696" ,"#287474", "#005959"]
+            else:
+                color_pallete = ["#bed7d8", "#8db6b7", "#72a4a5", "#5c9696" ,"#287474", "#005959"]
     else:
         tooltip_f = folium.features.GeoJsonTooltip(
                     fields=['name', col_name, 'value_ratio'], 

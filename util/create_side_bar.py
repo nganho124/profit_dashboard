@@ -26,7 +26,7 @@ def create_side_bar(input_data):
         list_month_full = input_data.Month.unique().tolist()
         sorted_months = sorted(list_month_full, key=lambda x: pd.to_datetime(x, format='%m-%Y'))
         # list_month = filtered_df.Month.unique()
-        print(sorted_months)
+        # print(sorted_months)
 
         st.markdown("""
                     <div>

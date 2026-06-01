@@ -272,21 +272,17 @@ with stylable_container(
         level_df_adjusted.loc[level_df_adjusted['label'] == 'Schiphol Airport - NL', 'level'] = 3
         categories = level_df_adjusted['label']
 
-        grouped_df = filtered_df[['FacilityType', 'Continent', 'SupplyChainFlow', 'QuantityInMT']].groupby(['FacilityType','Continent', 'SupplyChainFlow'], as_index=False).sum()
-        grouped_df['FacilityType'] = pd.Categorical(grouped_df['FacilityType'], categories=categories, ordered=True)
-        grouped_df['Continent'] = pd.Categorical(grouped_df['Continent'], categories=categories, ordered=True)
-        grouped_df = grouped_df.sort_values(by=['FacilityType', 'Continent', 'SupplyChainFlow', 'QuantityInMT'])
+        grouped_df = filtered_df[['FacilityName', 'Category', 'ShipToCountry', 'QuantityInMT']].groupby(['FacilityName', 'Category', 'ShipToCountry'], as_index=False).sum()
+        # grouped_df['FacilityType'] = pd.Categorical(grouped_df['FacilityType'], categories=categories, ordered=True)
+        # grouped_df['ShipToCountry'] = pd.Categorical(grouped_df['ShipToCountry'], categories=categories, ordered=True)
+        grouped_df = grouped_df.sort_values(by=['FacilityName', 'Category', 'ShipToCountry', 'QuantityInMT'])
+        print(grouped_df.head())
 
-        sankey_chart_filter = create_sankey_chart(data=grouped_df, 
-                                                originCol="FacilityType", 
-                                                destinationCol="Continent",
-                                                quantityCol="QuantityInMT", 
-                                                categoryCol="SupplyChainFlow", 
-                                                colorDict=color_for_flow_dict,
-                                                levelsMapping=level_df_adjusted, 
-                                                unit="ton",
-                                                fontName="Helvetica", 
-                                                fontSize=10)
+        sankey_chart_filter, nodes = create_sankey_chart(grouped_df, 
+                                        originCol="FacilityName", 
+                                        destinationCol="ShipToCountry",
+                                        quantityCol="QuantityInMT", 
+                                        categoryCol="Category")
         
         st.plotly_chart(sankey_chart_filter, use_container_width=True)
 
@@ -374,7 +370,8 @@ with stylable_container(
 
         sorted_label_list,threshold_matrix = CreateInputMatrixSlider(
                                                                     filtered_df = filtered_df,
-                                                                    Profit_level = Profit_level)
+                                                                    Profit_level = Profit_level,
+                                                                    group_cols=["Account", "Category", "MaterialName"])
         with col_profit[2]:
             if len(sorted_label_list) > 1:
                 st.markdown("<h5 style='font-size: 18px; margin-top: 5px; text-align: left;'>"+ Profit_level + " Percentage" + "</h5>", unsafe_allow_html=True)
@@ -395,11 +392,16 @@ with stylable_container(
 
         with col_summary_table[1]:
 
-            neg_table = create_summary_table_for_matrix(datainput=filtered_df,
+            neg_table = create_summary_table_for_matrix(data_input=filtered_df,
                                                         profit_level=Profit_level,
                                                         threshold_matrix = threshold_matrix,
                                                         list_label= sorted_label_list,
-                                                        percent_range = selected_legend)
+                                                        percent_range = selected_legend,
+                                                        base_group_cols=["Account", "Category", "MaterialName"], 
+                                                        material_group_cols=["Category", "MaterialName"], 
+                                                        account_group_cols=["Account"],
+                                                        main_y_col='Account', 
+                                                        main_x_col='MaterialName')
 
             st.dataframe(neg_table, hide_index=True, use_container_width=True)
 
@@ -408,7 +410,12 @@ with stylable_container(
                             profit_level= Profit_level,
                             list_label= sorted_label_list,
                             threshold_matrix = threshold_matrix,
-                            percent_range = selected_legend)
+                            percent_range = selected_legend,
+                            base_group_cols=["Account", "Category", "MaterialName"], 
+                            material_group_cols=["Category", "MaterialName"], 
+                            account_group_cols=["Account"],
+                            main_y_col='Account', 
+                            main_x_col='MaterialName')
         
         st.plotly_chart(matrix,use_container_width=True)
 
