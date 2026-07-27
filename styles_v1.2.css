@@ -86,14 +86,14 @@ div[data-testid="stVerticalBlock"] div[data-testid="stThumbValue"]{
     color: #ffffff;
 }
 
-div[data-testid="stHorizontalBlock"] div[data-testid="stTickBar"]{
+/* div[data-testid="stHorizontalBlock"] div[data-testid="stTickBar"]{
     color: rgba(1, 66, 106, 0.8);
 }
 div[data-testid="stHorizontalBlock"] div[data-testid="stThumbValue"]{
     color: rgba(1, 66, 106, 0.8);
-}
+} */
 
-/* /#feu-profit-explorer > div {
+#feu-profit-explorer > div {
     position: fixed;
     top: 0px;
     width: -webkit-fill-available;
@@ -101,15 +101,15 @@ div[data-testid="stHorizontalBlock"] div[data-testid="stThumbValue"]{
     padding-right: 6%;
     z-index: 101; 
     background-color: #ffffff;
-} */
+}
 #root > div:nth-child(1) > div.withScreencast > div > div > header > div.css-1dp5vir.ezrtsby1{
     background-image: linear-gradient(90deg, #ffffff, #ffffff)
 }
 
 #root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-uf99v8.ea3mdgi5 > div.block-container.css-z5fcl4.ea3mdgi4 > div:nth-child(1) > div > div:nth-child(3) > div{
-    position: fixed;
+    position: static;
     top: 0px;
-    z-index: 101; 
+    /* z-index: 101;  */
     background-color: #ffffff;
 }
 
@@ -119,12 +119,12 @@ div[data-testid="stHorizontalBlock"] div[data-testid="stThumbValue"]{
 
 
 #root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-uf99v8.ea3mdgi5 > div.block-container.css-z5fcl4.ea3mdgi4 > div:nth-child(1) > div > div:nth-child(7) {
-    position: fixed;
+    position: static;
     height: 60px;
-    top: 50px; /* Adjust this value as needed */
-    bottom: 600px;
-    left: auto; /* Adjust this value as needed */
-    z-index: 100; /* To ensure it's on top of other elements */
+    /* top: 50px; Adjust this value as needed */
+    /* bottom: 600px; */
+    /* left: auto; Adjust this value as needed */
+    /* z-index: 100; To ensure it's on top of other elements */
     background-color: #ffffff;
 }
 

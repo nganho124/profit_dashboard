@@ -22,7 +22,7 @@ import base64
 
 st.set_page_config(page_title = "Profit Explorer", 
                    layout="wide", 
-                   page_icon="data/CEL_icon_square_light_crop.png",
+                #    page_icon="data/CEL_icon_square_light_crop.png",
                    initial_sidebar_state="collapsed")
 
 viz.local_css("styles_v1.2.css")
@@ -40,28 +40,29 @@ def loadGeo():
 def loadInput():
     demo = True
     if demo:
-        input = pd.read_csv('dummy_sc_data_eu/final_profit_and_loss_transactions.csv')
+        input = pd.read_csv('demo_sc_data_eu/final_profit_and_loss_transactions.csv')
+        
     else:
         input = pd.read_csv('data/profit_by_month.csv')
     
     level = pd.read_csv('data/Facility_Level.csv')
-    
+    transfer_df = pd.read_csv('demo_sc_data_eu/InternalTransfer.csv')
 
-    return input, level
+    return input, level, transfer_df
 
-with open("data/Profit_Explorer_2.png", "rb") as img_file:
-    contents = img_file.read()
-data_url = base64.b64encode(contents).decode("utf-8")
+# with open("data/Profit_Explorer_2.png", "rb") as img_file:
+#     contents = img_file.read()
+# data_url = base64.b64encode(contents).decode("utf-8")
 
 
-st.markdown(f"""
-    <img src="data:image/jpeg;base64,{data_url}" alt="local image" 
-         style="display: block; margin-left: 0; margin-right: auto; align: left;"
-         width="220px">
-    """, 
-    unsafe_allow_html=True)
+# st.markdown(f"""
+#     <img src="data:image/jpeg;base64,{data_url}" alt="local image" 
+#          style="display: block; margin-left: 0; margin-right: auto; align: left;"
+#          width="220px">
+#     """, 
+#     unsafe_allow_html=True)
 
-input_df, level_df = loadInput()
+input_df, level_df, transfer_df = loadInput()
 
 
 
@@ -103,15 +104,15 @@ html_content = """
 with st.sidebar:
 
     # st.sidebar.image("data/CEL_Logo.png")
-    with open("data/CEL_Logo.png", "rb") as f:
-        side_img = base64.b64encode(f.read()).decode("utf-8")
+    # with open("data/CEL_Logo.png", "rb") as f:
+    #     side_img = base64.b64encode(f.read()).decode("utf-8")
 
-    st.sidebar.markdown(f"""
-    <img src="data:image/png;base64,{side_img}" alt="local image" 
-         style="display: block; margin-left: auto; margin-right: auto; align: left; margin-top:-35px;"
-         width="180px">
-    """, 
-    unsafe_allow_html=True)    
+    # st.sidebar.markdown(f"""
+    # <img src="data:image/png;base64,{side_img}" alt="local image" 
+    #      style="display: block; margin-left: auto; margin-right: auto; align: left; margin-top:-35px;"
+    #      width="180px">
+    # """, 
+    # unsafe_allow_html=True)    
 
     filtered_df, list_month_selected = sibr.create_side_bar(input_data=input_df)
     
@@ -134,7 +135,7 @@ with stylable_container(
     key='tabs',
     css_styles="""
     {
-        top: 100px;
+        top: 50px;
         padding-top: 10px;
     }
     """
@@ -275,8 +276,10 @@ with stylable_container(
         grouped_df = filtered_df[['FacilityName', 'Category', 'ShipToCountry', 'QuantityInMT']].groupby(['FacilityName', 'Category', 'ShipToCountry'], as_index=False).sum()
         # grouped_df['FacilityType'] = pd.Categorical(grouped_df['FacilityType'], categories=categories, ordered=True)
         # grouped_df['ShipToCountry'] = pd.Categorical(grouped_df['ShipToCountry'], categories=categories, ordered=True)
+
+
         grouped_df = grouped_df.sort_values(by=['FacilityName', 'Category', 'ShipToCountry', 'QuantityInMT'])
-        print(grouped_df.head())
+        
 
         sankey_chart_filter, nodes = create_sankey_chart(grouped_df, 
                                         originCol="FacilityName", 

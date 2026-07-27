@@ -1,0 +1,217 @@
+OriginID,OriginCity,OriginCountry,DestinationID,DestinationCity,DestinationCountry,DistanceKM,CostPerPallet,RouteType
+F01,Wasserburg,Germany,CUSTOMER,Amsterdam,Netherlands,706.97,95.7,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Antwerp,Belgium,664.03,91.4,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Barcelona,Spain,1085.22,133.52,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Berlin,Germany,502.92,75.29,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Brno,Czech Republic,347.02,59.7,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Brussels,Belgium,648.53,89.85,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Frankfurt,Germany,344.61,59.46,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Ghent,Belgium,696.79,94.68,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Gothenburg,Sweden,1074.54,132.45,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Hamburg,Germany,629.53,87.95,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Liege,Belgium,558.57,80.86,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Lyon,France,617.56,86.76,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Madrid,Spain,1522.88,177.29,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Malmo,Sweden,841.57,109.16,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Marseille,France,752.67,100.27,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Milan,Italy,371.1,62.11,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Munich,Germany,48.26,29.83,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Naples,Italy,817.91,106.79,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Ostrava,Czech Republic,482.02,73.2,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Paris,France,733.25,98.33,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Plzen,Czech Republic,204.63,45.46,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Prague,Czech Republic,275.15,52.52,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Rome,Italy,685.35,93.53,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Rotterdam,Netherlands,700.95,95.09,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Seville,Spain,1895.16,214.52,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Stockholm,Sweden,1309.46,155.95,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,The Hague,Netherlands,719.91,96.99,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Toulouse,France,969.57,121.96,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Turin,Italy,480.37,73.04,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Utrecht,Netherlands,675.87,92.59,Outbound to Customer
+F01,Wasserburg,Germany,CUSTOMER,Valencia,Spain,1388.61,163.86,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Amsterdam,Netherlands,75.18,35.52,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Antwerp,Belgium,83.87,36.39,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Barcelona,Spain,1184.19,146.42,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Berlin,Germany,639.0,91.9,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Brno,Czech Republic,938.25,121.83,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Brussels,Belgium,122.93,40.29,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Frankfurt,Germany,382.7,66.27,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Ghent,Belgium,100.46,38.05,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Gothenburg,Sweden,816.47,109.65,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Hamburg,Germany,437.65,71.77,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Liege,Belgium,183.08,46.31,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Lyon,France,689.84,96.98,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Madrid,Spain,1413.87,169.39,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Malmo,Sweden,715.65,99.57,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Marseille,France,968.91,124.89,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Milan,Italy,815.06,109.51,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Munich,Germany,684.79,96.48,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Naples,Italy,1458.59,173.86,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Ostrava,Czech Republic,1020.44,130.04,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Paris,France,365.5,64.55,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Plzen,Czech Republic,698.55,97.85,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Prague,Czech Republic,755.95,103.6,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Rome,Italy,1286.77,156.68,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Rotterdam,Netherlands,28.75,30.87,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Seville,Spain,1800.22,208.02,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Stockholm,Sweden,1197.75,147.78,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,The Hague,Netherlands,22.03,30.2,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Toulouse,France,947.94,122.79,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Turin,Italy,809.41,108.94,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Utrecht,Netherlands,74.43,35.44,Outbound to Customer
+F02,Rotterdam,Netherlands,CUSTOMER,Valencia,Spain,1429.98,171.0,Outbound to Customer
+F03,Laval,France,CUSTOMER,Amsterdam,Netherlands,625.87,84.59,Outbound to Customer
+F03,Laval,France,CUSTOMER,Antwerp,Belgium,511.41,73.14,Outbound to Customer
+F03,Laval,France,CUSTOMER,Barcelona,Spain,778.46,99.85,Outbound to Customer
+F03,Laval,France,CUSTOMER,Berlin,Germany,1118.06,133.81,Outbound to Customer
+F03,Laval,France,CUSTOMER,Brno,Czech Republic,1280.61,150.06,Outbound to Customer
+F03,Laval,France,CUSTOMER,Brussels,Belgium,482.34,70.23,Outbound to Customer
+F03,Laval,France,CUSTOMER,Frankfurt,Germany,722.28,94.23,Outbound to Customer
+F03,Laval,France,CUSTOMER,Ghent,Belgium,465.49,68.55,Outbound to Customer
+F03,Laval,France,CUSTOMER,Gothenburg,Sweden,1367.01,158.7,Outbound to Customer
+F03,Laval,France,CUSTOMER,Hamburg,Germany,969.05,118.9,Outbound to Customer
+F03,Laval,France,CUSTOMER,Liege,Belgium,539.21,75.92,Outbound to Customer
+F03,Laval,France,CUSTOMER,Lyon,France,493.67,71.37,Outbound to Customer
+F03,Laval,France,CUSTOMER,Madrid,Spain,883.1,110.31,Outbound to Customer
+F03,Laval,France,CUSTOMER,Malmo,Sweden,1261.22,148.12,Outbound to Customer
+F03,Laval,France,CUSTOMER,Marseille,France,712.0,93.2,Outbound to Customer
+F03,Laval,France,CUSTOMER,Milan,Italy,810.52,103.05,Outbound to Customer
+F03,Laval,France,CUSTOMER,Munich,Germany,915.33,113.53,Outbound to Customer
+F03,Laval,France,CUSTOMER,Naples,Italy,1431.94,165.19,Outbound to Customer
+F03,Laval,France,CUSTOMER,Ostrava,Czech Republic,1397.12,161.71,Outbound to Customer
+F03,Laval,France,CUSTOMER,Paris,France,244.74,46.47,Outbound to Customer
+F03,Laval,France,CUSTOMER,Plzen,Czech Republic,1047.45,126.75,Outbound to Customer
+F03,Laval,France,CUSTOMER,Prague,Czech Republic,1127.05,134.7,Outbound to Customer
+F03,Laval,France,CUSTOMER,Rome,Italy,1244.56,146.46,Outbound to Customer
+F03,Laval,France,CUSTOMER,Rotterdam,Netherlands,568.5,78.85,Outbound to Customer
+F03,Laval,France,CUSTOMER,Seville,Spain,1261.55,148.16,Outbound to Customer
+F03,Laval,France,CUSTOMER,Stockholm,Sweden,1749.58,196.96,Outbound to Customer
+F03,Laval,France,CUSTOMER,The Hague,Netherlands,573.52,79.35,Outbound to Customer
+F03,Laval,France,CUSTOMER,Toulouse,France,523.87,74.39,Outbound to Customer
+F03,Laval,France,CUSTOMER,Turin,Italy,724.21,94.42,Outbound to Customer
+F03,Laval,France,CUSTOMER,Utrecht,Netherlands,612.26,83.23,Outbound to Customer
+F03,Laval,France,CUSTOMER,Valencia,Spain,956.88,117.69,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Amsterdam,Netherlands,888.02,108.8,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Antwerp,Belgium,795.76,99.58,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Barcelona,Spain,757.43,95.74,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Berlin,Germany,859.08,105.91,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Brno,Czech Republic,674.39,87.44,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Brussels,Belgium,764.17,96.42,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Frankfurt,Germany,563.14,76.31,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Ghent,Belgium,807.95,100.8,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Gothenburg,Sweden,1407.51,160.75,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Hamburg,Germany,936.58,113.66,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Liege,Belgium,693.79,89.38,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Lyon,France,411.29,61.13,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Madrid,Spain,1233.17,143.32,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Malmo,Sweden,1185.71,138.57,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Marseille,France,423.49,62.35,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Milan,Italy,73.54,27.35,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Munich,Germany,356.06,55.61,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Naples,Italy,587.25,78.73,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Ostrava,Czech Republic,811.14,101.11,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Paris,France,713.14,91.31,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Plzen,Czech Republic,572.29,77.23,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Prague,Czech Republic,642.1,84.21,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Rome,Italy,410.66,61.07,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Rotterdam,Netherlands,858.75,105.88,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Seville,Spain,1585.53,178.55,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Stockholm,Sweden,1669.48,186.95,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,The Hague,Netherlands,879.07,107.91,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Toulouse,France,700.62,90.06,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Turin,Italy,182.98,38.3,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Utrecht,Netherlands,853.03,105.3,Outbound to Customer
+F04,Cremona,Italy,CUSTOMER,Valencia,Spain,1059.1,125.91,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Amsterdam,Netherlands,899.35,101.94,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Antwerp,Belgium,898.48,101.85,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Barcelona,Spain,1401.55,152.16,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Berlin,Germany,451.27,57.13,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Brno,Czech Republic,25.52,14.55,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Brussels,Belgium,894.91,101.49,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Frankfurt,Germany,579.6,69.96,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Ghent,Belgium,940.51,106.05,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Gothenburg,Sweden,1017.99,113.8,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Hamburg,Germany,680.52,80.05,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Liege,Belgium,804.9,92.49,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Lyon,France,949.26,106.93,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Madrid,Spain,1851.62,197.16,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Malmo,Sweden,775.08,89.51,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Marseille,France,1066.18,118.62,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Milan,Italy,677.62,79.76,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Munich,Germany,374.58,49.46,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Naples,Italy,921.07,104.11,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Ostrava,Czech Republic,158.31,27.83,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Paris,France,1034.01,115.4,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Plzen,Czech Republic,243.07,36.31,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Prague,Czech Republic,192.63,31.26,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Rome,Italy,846.6,96.66,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Rotterdam,Netherlands,912.61,103.26,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Seville,Spain,2220.12,234.01,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Stockholm,Sweden,1155.91,127.59,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,The Hague,Netherlands,928.29,104.83,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Toulouse,France,1299.43,141.94,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Turin,Italy,797.1,91.71,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Utrecht,Netherlands,875.53,99.55,Outbound to Customer
+F05,Pohořelice,Czech Republic,CUSTOMER,Valencia,Spain,1705.1,182.51,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Amsterdam,Netherlands,363.34,61.33,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Antwerp,Belgium,326.16,57.62,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Barcelona,Spain,1092.84,134.28,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Berlin,Germany,423.27,67.33,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Brno,Czech Republic,580.87,83.09,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Brussels,Belgium,317.59,56.76,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Frankfurt,Germany,0.79,25.08,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Ghent,Belgium,364.47,61.45,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Gothenburg,Sweden,873.12,112.31,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Hamburg,Germany,392.57,64.26,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Liege,Belgium,226.75,47.68,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Lyon,France,561.84,81.18,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Madrid,Spain,1446.28,169.63,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Malmo,Sweden,677.58,92.76,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Marseille,France,800.18,105.02,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Milan,Italy,519.59,76.96,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Munich,Germany,304.82,55.48,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Naples,Italy,1116.99,136.7,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Ostrava,Czech Republic,683.83,93.38,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Paris,France,478.29,72.83,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Plzen,Czech Republic,338.32,58.83,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Prague,Czech Republic,410.99,66.1,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Rome,Italy,958.99,120.9,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Rotterdam,Netherlands,357.02,60.7,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Seville,Spain,1834.59,208.46,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Stockholm,Sweden,1186.45,143.65,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,The Hague,Netherlands,375.76,62.58,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Toulouse,France,907.52,115.75,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Turin,Italy,564.49,81.45,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Utrecht,Netherlands,331.69,58.17,Outbound to Customer
+F06,Frankfurt,Germany,CUSTOMER,Valencia,Spain,1380.44,163.04,Outbound to Customer
+F01,Wasserburg,Germany,F02,Rotterdam,Netherlands,726.4,78.11,Internal STO
+F01,Wasserburg,Germany,F03,Laval,France,963.37,97.07,Internal STO
+F01,Wasserburg,Germany,F04,Cremona,Italy,368.07,49.45,Internal STO
+F01,Wasserburg,Germany,F05,Pohořelice,Czech Republic,331.86,46.55,Internal STO
+F01,Wasserburg,Germany,F06,Frankfurt,Germany,344.37,47.55,Internal STO
+F02,Rotterdam,Netherlands,F01,Wasserburg,Germany,726.4,80.51,Internal STO
+F02,Rotterdam,Netherlands,F03,Laval,France,551.88,66.55,Internal STO
+F02,Rotterdam,Netherlands,F04,Cremona,Italy,876.34,92.51,Internal STO
+F02,Rotterdam,Netherlands,F05,Pohořelice,Czech Republic,940.96,97.68,Internal STO
+F02,Rotterdam,Netherlands,F06,Frankfurt,Germany,383.02,53.04,Internal STO
+F03,Laval,France,F01,Wasserburg,Germany,963.37,94.67,Internal STO
+F03,Laval,France,F02,Rotterdam,Netherlands,551.88,61.75,Internal STO
+F03,Laval,France,F04,Cremona,Italy,883.83,88.31,Internal STO
+F03,Laval,France,F05,Pohořelice,Czech Republic,1273.13,119.45,Internal STO
+F03,Laval,France,F06,Frankfurt,Germany,723.03,75.44,Internal STO
+F04,Cremona,Italy,F01,Wasserburg,Germany,368.07,45.45,Internal STO
+F04,Cremona,Italy,F02,Rotterdam,Netherlands,876.34,86.11,Internal STO
+F04,Cremona,Italy,F03,Laval,France,883.83,86.71,Internal STO
+F04,Cremona,Italy,F05,Pohořelice,Czech Republic,652.83,68.23,Internal STO
+F04,Cremona,Italy,F06,Frankfurt,Germany,563.44,61.07,Internal STO
+F05,Pohořelice,Czech Republic,F01,Wasserburg,Germany,331.86,36.15,Internal STO
+F05,Pohořelice,Czech Republic,F02,Rotterdam,Netherlands,940.96,84.88,Internal STO
+F05,Pohořelice,Czech Republic,F03,Laval,France,1273.13,111.45,Internal STO
+F05,Pohořelice,Czech Republic,F04,Cremona,Italy,652.83,61.83,Internal STO
+F05,Pohořelice,Czech Republic,F06,Frankfurt,Germany,579.02,55.92,Internal STO
+F06,Frankfurt,Germany,F01,Wasserburg,Germany,344.37,47.55,Internal STO
+F06,Frankfurt,Germany,F02,Rotterdam,Netherlands,383.02,50.64,Internal STO
+F06,Frankfurt,Germany,F03,Laval,France,723.03,77.84,Internal STO
+F06,Frankfurt,Germany,F04,Cremona,Italy,563.44,65.07,Internal STO
+F06,Frankfurt,Germany,F05,Pohořelice,Czech Republic,579.02,66.32,Internal STO

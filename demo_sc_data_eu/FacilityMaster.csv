@@ -1,0 +1,7 @@
+FacilityID,FacilityName,FacilityType,OriginCity,Country,Latitude,Longitude,CapacityInPallet,AnnualStorageCost,HandlingCostPerPallet,TotalOverheadCost
+F01,Bavaria Dairy Plant,Plant,Wasserburg,Germany,48.061,12.228,17270,800000,6.5,250000
+F02,Maasvlakte Port DC,Port,Rotterdam,Netherlands,51.954,4.053,4935,300000,12.0,100000
+F03,Laval Dairy Plant,Plant,Laval,France,48.065,-0.751,10860,800000,6.5,250000
+F04,Cremona Storage Hub,Storage,Cremona,Italy,45.123,10.008,45390,1200000,4.5,150000
+F05,Brno South Logistics,Distribution Center,Pohořelice,Czech Republic,48.975,16.518,45191,1500000,5.5,350000
+F06,Frankfurt Central DC,Distribution Center,Frankfurt,Germany,50.1109,8.6821,45734,1500000,5.5,350000

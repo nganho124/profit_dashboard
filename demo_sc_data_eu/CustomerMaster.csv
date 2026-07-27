@@ -1,0 +1,251 @@
+ShipToID,ShipToParty,Account,Channel,Address,City,ShipToCountry,Continent,Latitude,Longitude
+ST0001,Valley Dairy - Paris,Valley Dairy,Retail,459 Commerce St,Paris,France,Europe,48.88662,2.36011
+ST0002,Valley Milk Co. - Barcelona,Valley Milk Co.,Retail,770 Commerce St,Barcelona,Spain,Europe,41.4022,2.20386
+ST0003,Nordic Foods - Berlin,Nordic Foods,Key Account,161 Commerce St,Berlin,Germany,Europe,52.50042,13.40248
+ST0004,Valley Brands - Paris,Valley Brands,Retail,59 Commerce St,Paris,France,Europe,48.83999,2.30467
+ST0005,Green Nutrition - Stockholm,Green Nutrition,Retail,958 Commerce St,Stockholm,Sweden,Europe,59.34852,18.02997
+ST0006,Alpine Dairy - Milan,Alpine Dairy,Foodservice,131 Commerce St,Milan,Italy,Europe,45.49599,9.20803
+ST0007,Nordic Brands - Paris,Nordic Brands,Retail,601 Commerce St,Paris,France,Europe,48.89656,2.38084
+ST0008,Green Foods - Toulouse,Green Foods,Retail,340 Commerce St,Toulouse,France,Europe,43.5741,1.45833
+ST0009,Nordic Nutrition - Naples,Nordic Nutrition,Manufacturing,35 Commerce St,Naples,Italy,Europe,40.89093,14.23588
+ST0010,Golden Dairy - Milan,Golden Dairy,Retail,390 Commerce St,Milan,Italy,Europe,45.43079,9.19677
+ST0011,Valley Nutrition - Hamburg,Valley Nutrition,Manufacturing,556 Commerce St,Hamburg,Germany,Europe,53.59395,10.02948
+ST0012,Euro Foods - Milan,Euro Foods,Key Account,456 Commerce St,Milan,Italy,Europe,45.46704,9.19208
+ST0013,Golden Milk Co. - Prague,Golden Milk Co.,Manufacturing,749 Commerce St,Prague,Czech Republic,Europe,50.04713,14.46287
+ST0014,Alpine Nutrition - Paris,Alpine Nutrition,Retail,380 Commerce St,Paris,France,Europe,48.8276,2.32963
+ST0015,Euro Milk Co. - Hamburg,Euro Milk Co.,Retail,521 Commerce St,Hamburg,Germany,Europe,53.57722,9.95987
+ST0016,Golden Dairy - Frankfurt,Golden Dairy,Manufacturing,593 Commerce St,Frankfurt,Germany,Europe,50.13113,8.70902
+ST0017,Green Dairy - Turin,Green Dairy,Key Account,41 Commerce St,Turin,Italy,Europe,45.1115,7.715
+ST0018,Alpine Brands - Marseille,Alpine Brands,Retail,503 Commerce St,Marseille,France,Europe,43.2711,5.34252
+ST0019,Golden Brands - Valencia,Golden Brands,Foodservice,987 Commerce St,Valencia,Spain,Europe,39.46612,-0.38171
+ST0020,Green Foods - Stockholm,Green Foods,Manufacturing,5 Commerce St,Stockholm,Sweden,Europe,59.32613,18.0871
+ST0021,Alpine Foods - Marseille,Alpine Foods,Foodservice,15 Commerce St,Marseille,France,Europe,43.25109,5.35393
+ST0022,Alpine Foods - Berlin,Alpine Foods,Manufacturing,241 Commerce St,Berlin,Germany,Europe,52.50144,13.40086
+ST0023,Pure Milk Co. - Liege,Pure Milk Co.,Retail,749 Commerce St,Liege,Belgium,Europe,50.63398,5.54031
+ST0024,Valley Milk Co. - Brno,Valley Milk Co.,Foodservice,243 Commerce St,Brno,Czech Republic,Europe,49.15612,16.64297
+ST0025,Euro Milk Co. - Rotterdam,Euro Milk Co.,Foodservice,646 Commerce St,Rotterdam,Netherlands,Europe,51.91565,4.44184
+ST0026,Valley Milk Co. - Paris,Valley Milk Co.,Manufacturing,640 Commerce St,Paris,France,Europe,48.88074,2.38961
+ST0027,Green Foods - Lyon,Green Foods,Retail,377 Commerce St,Lyon,France,Europe,45.77477,4.78005
+ST0028,Nordic Nutrition - Toulouse,Nordic Nutrition,Retail,710 Commerce St,Toulouse,France,Europe,43.60107,1.43174
+ST0029,Euro Brands - Munich,Euro Brands,Retail,684 Commerce St,Munich,Germany,Europe,48.10441,11.54683
+ST0030,Valley Milk Co. - Berlin,Valley Milk Co.,Foodservice,692 Commerce St,Berlin,Germany,Europe,52.50636,13.44718
+ST0031,Nordic Dairy - Ostrava,Nordic Dairy,Retail,386 Commerce St,Ostrava,Czech Republic,Europe,49.84123,18.22481
+ST0032,Pure Milk Co. - Stockholm,Pure Milk Co.,Retail,2 Commerce St,Stockholm,Sweden,Europe,59.32027,18.01515
+ST0033,Nordic Brands - Hamburg,Nordic Brands,Key Account,403 Commerce St,Hamburg,Germany,Europe,53.56807,9.99309
+ST0034,Nordic Nutrition - Toulouse,Nordic Nutrition,Foodservice,247 Commerce St,Toulouse,France,Europe,43.61721,1.46616
+ST0035,Valley Nutrition - Munich,Valley Nutrition,Wholesale,280 Commerce St,Munich,Germany,Europe,48.12703,11.62834
+ST0036,Euro Foods - Lyon,Euro Foods,Manufacturing,144 Commerce St,Lyon,France,Europe,45.79353,4.81208
+ST0037,Valley Brands - Hamburg,Valley Brands,Retail,660 Commerce St,Hamburg,Germany,Europe,53.5326,9.96202
+ST0038,Valley Brands - Seville,Valley Brands,Manufacturing,148 Commerce St,Seville,Spain,Europe,37.39452,-6.01256
+ST0039,Green Nutrition - Valencia,Green Nutrition,Retail,338 Commerce St,Valencia,Spain,Europe,39.49377,-0.35243
+ST0040,Nordic Foods - Seville,Nordic Foods,Retail,415 Commerce St,Seville,Spain,Europe,37.41773,-6.00421
+ST0041,Alpine Dairy - Rome,Alpine Dairy,Manufacturing,572 Commerce St,Rome,Italy,Europe,41.87608,12.53963
+ST0042,Nordic Foods - Plzen,Nordic Foods,Foodservice,160 Commerce St,Plzen,Czech Republic,Europe,49.74331,13.3539
+ST0043,Green Dairy - Toulouse,Green Dairy,Wholesale,131 Commerce St,Toulouse,France,Europe,43.63563,1.43045
+ST0044,Pure Brands - Liege,Pure Brands,Manufacturing,625 Commerce St,Liege,Belgium,Europe,50.59616,5.60986
+ST0045,Green Milk Co. - Rome,Green Milk Co.,Retail,510 Commerce St,Rome,Italy,Europe,41.94401,12.53737
+ST0046,Valley Dairy - Marseille,Valley Dairy,Retail,706 Commerce St,Marseille,France,Europe,43.30919,5.3752
+ST0047,Golden Milk Co. - Berlin,Golden Milk Co.,Wholesale,801 Commerce St,Berlin,Germany,Europe,52.51939,13.36788
+ST0048,Euro Nutrition - Lyon,Euro Nutrition,Wholesale,195 Commerce St,Lyon,France,Europe,45.77576,4.83683
+ST0049,Pure Dairy - Hamburg,Pure Dairy,Retail,375 Commerce St,Hamburg,Germany,Europe,53.52505,9.99899
+ST0050,Green Foods - Stockholm,Green Foods,Foodservice,776 Commerce St,Stockholm,Sweden,Europe,59.33311,18.08948
+ST0051,Golden Milk Co. - Milan,Golden Milk Co.,Foodservice,960 Commerce St,Milan,Italy,Europe,45.49642,9.16302
+ST0052,Nordic Milk Co. - Lyon,Nordic Milk Co.,Foodservice,192 Commerce St,Lyon,France,Europe,45.77455,4.79771
+ST0053,Green Brands - Prague,Green Brands,Key Account,373 Commerce St,Prague,Czech Republic,Europe,50.10835,14.45477
+ST0054,Green Milk Co. - Plzen,Green Milk Co.,Retail,302 Commerce St,Plzen,Czech Republic,Europe,49.77667,13.41636
+ST0055,Alpine Dairy - The Hague,Alpine Dairy,Retail,981 Commerce St,The Hague,Netherlands,Europe,52.03909,4.27685
+ST0056,Golden Milk Co. - Lyon,Golden Milk Co.,Retail,735 Commerce St,Lyon,France,Europe,45.79442,4.873
+ST0057,Alpine Foods - Berlin,Alpine Foods,Retail,943 Commerce St,Berlin,Germany,Europe,52.56901,13.36401
+ST0058,Alpine Nutrition - Rome,Alpine Nutrition,Manufacturing,785 Commerce St,Rome,Italy,Europe,41.93487,12.45366
+ST0059,Golden Brands - Barcelona,Golden Brands,Foodservice,682 Commerce St,Barcelona,Spain,Europe,41.41094,2.19101
+ST0060,Nordic Nutrition - Rotterdam,Nordic Nutrition,Key Account,506 Commerce St,Rotterdam,Netherlands,Europe,51.87052,4.48279
+ST0061,Euro Brands - Frankfurt,Euro Brands,Retail,400 Commerce St,Frankfurt,Germany,Europe,50.06508,8.71866
+ST0062,Nordic Brands - Munich,Nordic Brands,Foodservice,800 Commerce St,Munich,Germany,Europe,48.13783,11.53359
+ST0063,Valley Milk Co. - Toulouse,Valley Milk Co.,Foodservice,125 Commerce St,Toulouse,France,Europe,43.63389,1.47604
+ST0064,Valley Milk Co. - Frankfurt,Valley Milk Co.,Retail,783 Commerce St,Frankfurt,Germany,Europe,50.09602,8.64271
+ST0065,Green Nutrition - Rome,Green Nutrition,Wholesale,620 Commerce St,Rome,Italy,Europe,41.91229,12.44853
+ST0066,Nordic Foods - Berlin,Nordic Foods,Foodservice,47 Commerce St,Berlin,Germany,Europe,52.53995,13.36384
+ST0067,Euro Dairy - Munich,Euro Dairy,Key Account,106 Commerce St,Munich,Germany,Europe,48.1123,11.60952
+ST0068,Green Foods - Berlin,Green Foods,Foodservice,951 Commerce St,Berlin,Germany,Europe,52.49509,13.36843
+ST0069,Alpine Dairy - Munich,Alpine Dairy,Foodservice,908 Commerce St,Munich,Germany,Europe,48.1209,11.54733
+ST0070,Alpine Dairy - Hamburg,Alpine Dairy,Retail,638 Commerce St,Hamburg,Germany,Europe,53.50939,9.95829
+ST0071,Alpine Brands - Brno,Alpine Brands,Foodservice,189 Commerce St,Brno,Czech Republic,Europe,49.21379,16.60544
+ST0072,Euro Nutrition - Milan,Euro Nutrition,Foodservice,76 Commerce St,Milan,Italy,Europe,45.4666,9.15586
+ST0073,Green Foods - Frankfurt,Green Foods,Retail,220 Commerce St,Frankfurt,Germany,Europe,50.0646,8.63407
+ST0074,Nordic Nutrition - Utrecht,Nordic Nutrition,Wholesale,204 Commerce St,Utrecht,Netherlands,Europe,52.04172,5.14634
+ST0075,Nordic Dairy - Amsterdam,Nordic Dairy,Retail,254 Commerce St,Amsterdam,Netherlands,Europe,52.35339,4.88985
+ST0076,Valley Nutrition - Naples,Valley Nutrition,Foodservice,802 Commerce St,Naples,Italy,Europe,40.82609,14.21153
+ST0077,Pure Nutrition - Plzen,Pure Nutrition,Foodservice,325 Commerce St,Plzen,Czech Republic,Europe,49.7484,13.38159
+ST0078,Golden Dairy - Prague,Golden Dairy,Key Account,988 Commerce St,Prague,Czech Republic,Europe,50.07858,14.47402
+ST0079,Alpine Nutrition - Naples,Alpine Nutrition,Retail,380 Commerce St,Naples,Italy,Europe,40.81285,14.29112
+ST0080,Golden Dairy - Rotterdam,Golden Dairy,Foodservice,577 Commerce St,Rotterdam,Netherlands,Europe,51.96612,4.51054
+ST0081,Nordic Foods - Frankfurt,Nordic Foods,Retail,607 Commerce St,Frankfurt,Germany,Europe,50.09773,8.6339
+ST0082,Nordic Nutrition - Milan,Nordic Nutrition,Retail,90 Commerce St,Milan,Italy,Europe,45.4419,9.22449
+ST0083,Euro Nutrition - Munich,Euro Nutrition,Manufacturing,617 Commerce St,Munich,Germany,Europe,48.1296,11.59929
+ST0084,Golden Dairy - Toulouse,Golden Dairy,Key Account,376 Commerce St,Toulouse,France,Europe,43.62351,1.47035
+ST0085,Golden Brands - Paris,Golden Brands,Retail,457 Commerce St,Paris,France,Europe,48.85685,2.35759
+ST0086,Alpine Brands - Madrid,Alpine Brands,Retail,96 Commerce St,Madrid,Spain,Europe,40.39408,-3.65692
+ST0087,Alpine Foods - Rotterdam,Alpine Foods,Foodservice,525 Commerce St,Rotterdam,Netherlands,Europe,51.94399,4.44382
+ST0088,Pure Nutrition - Toulouse,Pure Nutrition,Foodservice,596 Commerce St,Toulouse,France,Europe,43.63265,1.422
+ST0089,Nordic Nutrition - Brussels,Nordic Nutrition,Retail,396 Commerce St,Brussels,Belgium,Europe,50.89585,4.38471
+ST0090,Nordic Nutrition - Paris,Nordic Nutrition,Key Account,735 Commerce St,Paris,France,Europe,48.89506,2.35734
+ST0091,Pure Milk Co. - Turin,Pure Milk Co.,Foodservice,99 Commerce St,Turin,Italy,Europe,45.08024,7.68537
+ST0092,Euro Nutrition - Frankfurt,Euro Nutrition,Key Account,144 Commerce St,Frankfurt,Germany,Europe,50.13896,8.63912
+ST0093,Nordic Foods - Marseille,Nordic Foods,Retail,223 Commerce St,Marseille,France,Europe,43.24559,5.3837
+ST0094,Nordic Dairy - Rome,Nordic Dairy,Wholesale,751 Commerce St,Rome,Italy,Europe,41.8643,12.51615
+ST0095,Valley Milk Co. - Rome,Valley Milk Co.,Retail,519 Commerce St,Rome,Italy,Europe,41.89261,12.46226
+ST0096,Alpine Brands - Toulouse,Alpine Brands,Manufacturing,194 Commerce St,Toulouse,France,Europe,43.55813,1.39848
+ST0097,Green Brands - Gothenburg,Green Brands,Retail,833 Commerce St,Gothenburg,Sweden,Europe,57.73804,11.94367
+ST0098,Alpine Brands - Brussels,Alpine Brands,Foodservice,804 Commerce St,Brussels,Belgium,Europe,50.83763,4.30835
+ST0099,Golden Foods - Madrid,Golden Foods,Foodservice,91 Commerce St,Madrid,Spain,Europe,40.38487,-3.71697
+ST0100,Green Dairy - Lyon,Green Dairy,Retail,754 Commerce St,Lyon,France,Europe,45.75687,4.78563
+ST0101,Pure Dairy - Munich,Pure Dairy,Retail,361 Commerce St,Munich,Germany,Europe,48.15442,11.5981
+ST0102,Green Brands - Berlin,Green Brands,Foodservice,508 Commerce St,Berlin,Germany,Europe,52.49857,13.43686
+ST0103,Green Dairy - Frankfurt,Green Dairy,Key Account,556 Commerce St,Frankfurt,Germany,Europe,50.15779,8.6856
+ST0104,Valley Brands - Marseille,Valley Brands,Retail,213 Commerce St,Marseille,France,Europe,43.3393,5.31738
+ST0105,Euro Foods - Naples,Euro Foods,Key Account,402 Commerce St,Naples,Italy,Europe,40.81662,14.23168
+ST0106,Nordic Milk Co. - Toulouse,Nordic Milk Co.,Key Account,566 Commerce St,Toulouse,France,Europe,43.60843,1.48012
+ST0107,Nordic Milk Co. - Frankfurt,Nordic Milk Co.,Retail,736 Commerce St,Frankfurt,Germany,Europe,50.06579,8.66945
+ST0108,Euro Dairy - Berlin,Euro Dairy,Retail,122 Commerce St,Berlin,Germany,Europe,52.48881,13.39637
+ST0109,Pure Brands - Paris,Pure Brands,Foodservice,732 Commerce St,Paris,France,Europe,48.83603,2.32599
+ST0110,Alpine Brands - Lyon,Alpine Brands,Retail,201 Commerce St,Lyon,France,Europe,45.74095,4.86138
+ST0111,Green Milk Co. - Barcelona,Green Milk Co.,Retail,558 Commerce St,Barcelona,Spain,Europe,41.33762,2.20405
+ST0112,Euro Dairy - Lyon,Euro Dairy,Foodservice,921 Commerce St,Lyon,France,Europe,45.75182,4.87327
+ST0113,Euro Milk Co. - Rotterdam,Euro Milk Co.,Retail,119 Commerce St,Rotterdam,Netherlands,Europe,51.91113,4.49776
+ST0114,Pure Brands - Marseille,Pure Brands,Key Account,779 Commerce St,Marseille,France,Europe,43.29941,5.34809
+ST0115,Green Brands - Prague,Green Brands,Manufacturing,461 Commerce St,Prague,Czech Republic,Europe,50.02635,14.38368
+ST0116,Valley Brands - Hamburg,Valley Brands,Retail,823 Commerce St,Hamburg,Germany,Europe,53.58647,10.02129
+ST0117,Valley Dairy - Gothenburg,Valley Dairy,Key Account,437 Commerce St,Gothenburg,Sweden,Europe,57.70851,11.99261
+ST0118,Euro Dairy - Madrid,Euro Dairy,Retail,85 Commerce St,Madrid,Spain,Europe,40.40505,-3.73708
+ST0119,Valley Brands - Brno,Valley Brands,Foodservice,446 Commerce St,Brno,Czech Republic,Europe,49.22782,16.6257
+ST0120,Euro Milk Co. - Munich,Euro Milk Co.,Retail,551 Commerce St,Munich,Germany,Europe,48.14716,11.58203
+ST0121,Valley Milk Co. - Barcelona,Valley Milk Co.,Foodservice,268 Commerce St,Barcelona,Spain,Europe,41.41164,2.2068
+ST0122,Valley Milk Co. - Frankfurt,Valley Milk Co.,Wholesale,401 Commerce St,Frankfurt,Germany,Europe,50.0734,8.63288
+ST0123,Euro Dairy - Madrid,Euro Dairy,Foodservice,578 Commerce St,Madrid,Spain,Europe,40.4405,-3.65968
+ST0124,Valley Nutrition - Naples,Valley Nutrition,Key Account,306 Commerce St,Naples,Italy,Europe,40.85899,14.24922
+ST0125,Alpine Dairy - Marseille,Alpine Dairy,Key Account,308 Commerce St,Marseille,France,Europe,43.29474,5.35509
+ST0126,Golden Foods - Ghent,Golden Foods,Retail,106 Commerce St,Ghent,Belgium,Europe,51.08624,3.75495
+ST0127,Nordic Nutrition - Frankfurt,Nordic Nutrition,Key Account,330 Commerce St,Frankfurt,Germany,Europe,50.13689,8.63662
+ST0128,Green Dairy - Berlin,Green Dairy,Foodservice,450 Commerce St,Berlin,Germany,Europe,52.50288,13.41334
+ST0129,Alpine Foods - Berlin,Alpine Foods,Retail,761 Commerce St,Berlin,Germany,Europe,52.51601,13.40848
+ST0130,Golden Milk Co. - Lyon,Golden Milk Co.,Wholesale,900 Commerce St,Lyon,France,Europe,45.72819,4.81457
+ST0131,Pure Foods - Brussels,Pure Foods,Foodservice,93 Commerce St,Brussels,Belgium,Europe,50.89731,4.36019
+ST0132,Euro Milk Co. - Berlin,Euro Milk Co.,Manufacturing,466 Commerce St,Berlin,Germany,Europe,52.49786,13.3677
+ST0133,Euro Foods - Munich,Euro Foods,Retail,233 Commerce St,Munich,Germany,Europe,48.1156,11.61942
+ST0134,Valley Dairy - Hamburg,Valley Dairy,Retail,923 Commerce St,Hamburg,Germany,Europe,53.50393,10.01994
+ST0135,Golden Brands - Turin,Golden Brands,Retail,350 Commerce St,Turin,Italy,Europe,45.0357,7.66773
+ST0136,Green Foods - Munich,Green Foods,Manufacturing,8 Commerce St,Munich,Germany,Europe,48.15483,11.54845
+ST0137,Golden Foods - Munich,Golden Foods,Retail,726 Commerce St,Munich,Germany,Europe,48.10361,11.606
+ST0138,Pure Dairy - Milan,Pure Dairy,Wholesale,666 Commerce St,Milan,Italy,Europe,45.41367,9.16524
+ST0139,Valley Milk Co. - Seville,Valley Milk Co.,Manufacturing,750 Commerce St,Seville,Spain,Europe,37.40496,-6.02695
+ST0140,Golden Foods - The Hague,Golden Foods,Retail,883 Commerce St,The Hague,Netherlands,Europe,52.04425,4.27692
+ST0141,Nordic Dairy - Toulouse,Nordic Dairy,Retail,953 Commerce St,Toulouse,France,Europe,43.63407,1.39892
+ST0142,Golden Dairy - Turin,Golden Dairy,Retail,525 Commerce St,Turin,Italy,Europe,45.07936,7.69791
+ST0143,Nordic Foods - Seville,Nordic Foods,Foodservice,111 Commerce St,Seville,Spain,Europe,37.38842,-5.95632
+ST0144,Euro Milk Co. - Milan,Euro Milk Co.,Foodservice,748 Commerce St,Milan,Italy,Europe,45.42276,9.16838
+ST0145,Nordic Dairy - Lyon,Nordic Dairy,Foodservice,738 Commerce St,Lyon,France,Europe,45.73444,4.82982
+ST0146,Pure Milk Co. - Marseille,Pure Milk Co.,Key Account,437 Commerce St,Marseille,France,Europe,43.25018,5.32529
+ST0147,Golden Dairy - Hamburg,Golden Dairy,Retail,843 Commerce St,Hamburg,Germany,Europe,53.50879,10.02059
+ST0148,Euro Brands - Frankfurt,Euro Brands,Manufacturing,899 Commerce St,Frankfurt,Germany,Europe,50.11245,8.67104
+ST0149,Valley Brands - Malmo,Valley Brands,Retail,322 Commerce St,Malmo,Sweden,Europe,55.6076,13.04174
+ST0150,Alpine Dairy - Hamburg,Alpine Dairy,Key Account,606 Commerce St,Hamburg,Germany,Europe,53.51709,10.00686
+ST0151,Nordic Brands - Ghent,Nordic Brands,Foodservice,392 Commerce St,Ghent,Belgium,Europe,51.04766,3.74386
+ST0152,Alpine Dairy - Frankfurt,Alpine Dairy,Key Account,836 Commerce St,Frankfurt,Germany,Europe,50.10254,8.68076
+ST0153,Euro Milk Co. - Frankfurt,Euro Milk Co.,Retail,90 Commerce St,Frankfurt,Germany,Europe,50.13678,8.63873
+ST0154,Green Brands - Rome,Green Brands,Key Account,845 Commerce St,Rome,Italy,Europe,41.90326,12.44518
+ST0155,Pure Brands - Lyon,Pure Brands,Retail,919 Commerce St,Lyon,France,Europe,45.76489,4.80017
+ST0156,Euro Dairy - Seville,Euro Dairy,Retail,319 Commerce St,Seville,Spain,Europe,37.39815,-5.95398
+ST0157,Alpine Brands - Milan,Alpine Brands,Foodservice,419 Commerce St,Milan,Italy,Europe,45.44489,9.23295
+ST0158,Euro Nutrition - Amsterdam,Euro Nutrition,Key Account,334 Commerce St,Amsterdam,Netherlands,Europe,52.40329,4.94909
+ST0159,Valley Milk Co. - Hamburg,Valley Milk Co.,Retail,513 Commerce St,Hamburg,Germany,Europe,53.57411,9.99745
+ST0160,Valley Dairy - The Hague,Valley Dairy,Retail,873 Commerce St,The Hague,Netherlands,Europe,52.09505,4.32995
+ST0161,Green Milk Co. - Utrecht,Green Milk Co.,Retail,851 Commerce St,Utrecht,Netherlands,Europe,52.10652,5.12231
+ST0162,Euro Nutrition - Marseille,Euro Nutrition,Manufacturing,89 Commerce St,Marseille,France,Europe,43.3083,5.35519
+ST0163,Green Foods - Barcelona,Green Foods,Manufacturing,637 Commerce St,Barcelona,Spain,Europe,41.36014,2.18476
+ST0164,Pure Nutrition - Milan,Pure Nutrition,Retail,225 Commerce St,Milan,Italy,Europe,45.44915,9.19319
+ST0165,Green Brands - Hamburg,Green Brands,Retail,39 Commerce St,Hamburg,Germany,Europe,53.51169,10.03398
+ST0166,Pure Brands - Rome,Pure Brands,Retail,448 Commerce St,Rome,Italy,Europe,41.86667,12.52786
+ST0167,Euro Milk Co. - Lyon,Euro Milk Co.,Wholesale,923 Commerce St,Lyon,France,Europe,45.78886,4.79517
+ST0168,Pure Brands - Marseille,Pure Brands,Retail,951 Commerce St,Marseille,France,Europe,43.25431,5.33045
+ST0169,Pure Nutrition - Seville,Pure Nutrition,Foodservice,842 Commerce St,Seville,Spain,Europe,37.36421,-5.94787
+ST0170,Valley Foods - Frankfurt,Valley Foods,Manufacturing,216 Commerce St,Frankfurt,Germany,Europe,50.1204,8.68023
+ST0171,Golden Foods - Rome,Golden Foods,Foodservice,324 Commerce St,Rome,Italy,Europe,41.92223,12.512
+ST0172,Euro Brands - Naples,Euro Brands,Wholesale,292 Commerce St,Naples,Italy,Europe,40.87162,14.2699
+ST0173,Alpine Foods - The Hague,Alpine Foods,Key Account,872 Commerce St,The Hague,Netherlands,Europe,52.07834,4.29009
+ST0174,Nordic Foods - Lyon,Nordic Foods,Key Account,396 Commerce St,Lyon,France,Europe,45.80119,4.79391
+ST0175,Alpine Dairy - Munich,Alpine Dairy,Retail,616 Commerce St,Munich,Germany,Europe,48.16721,11.62321
+ST0176,Pure Brands - Rome,Pure Brands,Wholesale,888 Commerce St,Rome,Italy,Europe,41.8523,12.50514
+ST0177,Pure Nutrition - Barcelona,Pure Nutrition,Retail,905 Commerce St,Barcelona,Spain,Europe,41.37241,2.18364
+ST0178,Valley Nutrition - Plzen,Valley Nutrition,Key Account,407 Commerce St,Plzen,Czech Republic,Europe,49.69228,13.34359
+ST0179,Pure Foods - Munich,Pure Foods,Retail,983 Commerce St,Munich,Germany,Europe,48.17208,11.61699
+ST0180,Valley Dairy - Rome,Valley Dairy,Foodservice,661 Commerce St,Rome,Italy,Europe,41.88793,12.51442
+ST0181,Golden Nutrition - Munich,Golden Nutrition,Wholesale,666 Commerce St,Munich,Germany,Europe,48.11335,11.56982
+ST0182,Nordic Brands - Turin,Nordic Brands,Key Account,386 Commerce St,Turin,Italy,Europe,45.06657,7.67808
+ST0183,Alpine Brands - Antwerp,Alpine Brands,Foodservice,955 Commerce St,Antwerp,Belgium,Europe,51.20524,4.36409
+ST0184,Golden Dairy - Frankfurt,Golden Dairy,Foodservice,710 Commerce St,Frankfurt,Germany,Europe,50.06339,8.66115
+ST0185,Nordic Nutrition - Valencia,Nordic Nutrition,Retail,666 Commerce St,Valencia,Spain,Europe,39.41131,-0.35365
+ST0186,Golden Nutrition - Frankfurt,Golden Nutrition,Key Account,689 Commerce St,Frankfurt,Germany,Europe,50.11573,8.71606
+ST0187,Golden Brands - Turin,Golden Brands,Retail,327 Commerce St,Turin,Italy,Europe,45.07954,7.63671
+ST0188,Nordic Nutrition - Seville,Nordic Nutrition,Retail,723 Commerce St,Seville,Spain,Europe,37.36494,-5.98318
+ST0189,Euro Foods - Naples,Euro Foods,Retail,144 Commerce St,Naples,Italy,Europe,40.85648,14.21657
+ST0190,Golden Brands - Seville,Golden Brands,Foodservice,194 Commerce St,Seville,Spain,Europe,37.38345,-5.98189
+ST0191,Valley Foods - Marseille,Valley Foods,Wholesale,644 Commerce St,Marseille,France,Europe,43.25819,5.39618
+ST0192,Pure Dairy - Ostrava,Pure Dairy,Retail,458 Commerce St,Ostrava,Czech Republic,Europe,49.85974,18.26266
+ST0193,Nordic Milk Co. - The Hague,Nordic Milk Co.,Key Account,800 Commerce St,The Hague,Netherlands,Europe,52.0916,4.31589
+ST0194,Euro Brands - Berlin,Euro Brands,Retail,984 Commerce St,Berlin,Germany,Europe,52.48961,13.40055
+ST0195,Nordic Foods - Milan,Nordic Foods,Retail,229 Commerce St,Milan,Italy,Europe,45.42785,9.20527
+ST0196,Pure Foods - Munich,Pure Foods,Retail,96 Commerce St,Munich,Germany,Europe,48.17887,11.59032
+ST0197,Alpine Nutrition - Utrecht,Alpine Nutrition,Key Account,500 Commerce St,Utrecht,Netherlands,Europe,52.10681,5.0905
+ST0198,Euro Brands - Toulouse,Euro Brands,Manufacturing,7 Commerce St,Toulouse,France,Europe,43.61332,1.46359
+ST0199,Pure Dairy - Rotterdam,Pure Dairy,Retail,915 Commerce St,Rotterdam,Netherlands,Europe,51.9283,4.46214
+ST0200,Golden Nutrition - Liege,Golden Nutrition,Manufacturing,916 Commerce St,Liege,Belgium,Europe,50.61359,5.60251
+ST0201,Golden Brands - Paris,Golden Brands,Retail,532 Commerce St,Paris,France,Europe,48.86241,2.34094
+ST0202,Golden Brands - Turin,Golden Brands,Foodservice,940 Commerce St,Turin,Italy,Europe,45.04195,7.72745
+ST0203,Pure Dairy - Valencia,Pure Dairy,Retail,158 Commerce St,Valencia,Spain,Europe,39.45874,-0.33054
+ST0204,Euro Nutrition - Seville,Euro Nutrition,Foodservice,115 Commerce St,Seville,Spain,Europe,37.38125,-5.95583
+ST0205,Green Brands - Barcelona,Green Brands,Foodservice,201 Commerce St,Barcelona,Spain,Europe,41.34394,2.19349
+ST0206,Pure Foods - Malmo,Pure Foods,Foodservice,109 Commerce St,Malmo,Sweden,Europe,55.61912,13.01832
+ST0207,Pure Nutrition - Amsterdam,Pure Nutrition,Foodservice,42 Commerce St,Amsterdam,Netherlands,Europe,52.36765,4.87741
+ST0208,Pure Milk Co. - Turin,Pure Milk Co.,Wholesale,378 Commerce St,Turin,Italy,Europe,45.09202,7.64066
+ST0209,Valley Foods - Frankfurt,Valley Foods,Retail,287 Commerce St,Frankfurt,Germany,Europe,50.14739,8.68974
+ST0210,Nordic Brands - Rome,Nordic Brands,Wholesale,455 Commerce St,Rome,Italy,Europe,41.90733,12.52381
+ST0211,Pure Brands - Paris,Pure Brands,Wholesale,558 Commerce St,Paris,France,Europe,48.8047,2.31663
+ST0212,Alpine Nutrition - Barcelona,Alpine Nutrition,Retail,292 Commerce St,Barcelona,Spain,Europe,41.4071,2.11682
+ST0213,Golden Nutrition - Rotterdam,Golden Nutrition,Foodservice,676 Commerce St,Rotterdam,Netherlands,Europe,51.9419,4.44971
+ST0214,Alpine Milk Co. - Turin,Alpine Milk Co.,Foodservice,623 Commerce St,Turin,Italy,Europe,45.11541,7.6435
+ST0215,Euro Foods - Toulouse,Euro Foods,Retail,751 Commerce St,Toulouse,France,Europe,43.57623,1.44951
+ST0216,Euro Milk Co. - Frankfurt,Euro Milk Co.,Foodservice,365 Commerce St,Frankfurt,Germany,Europe,50.07547,8.69233
+ST0217,Euro Nutrition - Marseille,Euro Nutrition,Retail,296 Commerce St,Marseille,France,Europe,43.31282,5.35955
+ST0218,Golden Dairy - Seville,Golden Dairy,Foodservice,39 Commerce St,Seville,Spain,Europe,37.33759,-6.02222
+ST0219,Alpine Brands - Berlin,Alpine Brands,Key Account,102 Commerce St,Berlin,Germany,Europe,52.52902,13.3861
+ST0220,Euro Foods - Berlin,Euro Foods,Key Account,957 Commerce St,Berlin,Germany,Europe,52.549,13.41906
+ST0221,Golden Dairy - Rome,Golden Dairy,Retail,592 Commerce St,Rome,Italy,Europe,41.93729,12.51322
+ST0222,Nordic Foods - Amsterdam,Nordic Foods,Wholesale,374 Commerce St,Amsterdam,Netherlands,Europe,52.37372,4.94806
+ST0223,Green Foods - Antwerp,Green Foods,Foodservice,571 Commerce St,Antwerp,Belgium,Europe,51.25877,4.44441
+ST0224,Nordic Nutrition - Berlin,Nordic Nutrition,Wholesale,711 Commerce St,Berlin,Germany,Europe,52.56994,13.40558
+ST0225,Green Foods - Toulouse,Green Foods,Retail,335 Commerce St,Toulouse,France,Europe,43.61974,1.41973
+ST0226,Valley Milk Co. - Ghent,Valley Milk Co.,Key Account,727 Commerce St,Ghent,Belgium,Europe,51.07953,3.73451
+ST0227,Nordic Brands - Berlin,Nordic Brands,Foodservice,443 Commerce St,Berlin,Germany,Europe,52.55289,13.3537
+ST0228,Golden Foods - Naples,Golden Foods,Retail,188 Commerce St,Naples,Italy,Europe,40.84811,14.2985
+ST0229,Alpine Brands - Rome,Alpine Brands,Foodservice,983 Commerce St,Rome,Italy,Europe,41.85654,12.47153
+ST0230,Euro Brands - Turin,Euro Brands,Wholesale,921 Commerce St,Turin,Italy,Europe,45.09379,7.68202
+ST0231,Pure Foods - Paris,Pure Foods,Manufacturing,450 Commerce St,Paris,France,Europe,48.80244,2.38701
+ST0232,Green Foods - Berlin,Green Foods,Manufacturing,141 Commerce St,Berlin,Germany,Europe,52.5084,13.44326
+ST0233,Valley Milk Co. - Berlin,Valley Milk Co.,Retail,29 Commerce St,Berlin,Germany,Europe,52.54672,13.39019
+ST0234,Golden Brands - Paris,Golden Brands,Foodservice,440 Commerce St,Paris,France,Europe,48.82717,2.33983
+ST0235,Euro Brands - Frankfurt,Euro Brands,Retail,340 Commerce St,Frankfurt,Germany,Europe,50.13376,8.65388
+ST0236,Valley Milk Co. - Berlin,Valley Milk Co.,Retail,670 Commerce St,Berlin,Germany,Europe,52.55528,13.42156
+ST0237,Green Milk Co. - Rome,Green Milk Co.,Retail,949 Commerce St,Rome,Italy,Europe,41.94877,12.48278
+ST0238,Golden Nutrition - Toulouse,Golden Nutrition,Wholesale,140 Commerce St,Toulouse,France,Europe,43.64564,1.4698
+ST0239,Alpine Nutrition - Hamburg,Alpine Nutrition,Foodservice,807 Commerce St,Hamburg,Germany,Europe,53.58791,10.03447
+ST0240,Valley Nutrition - Lyon,Valley Nutrition,Foodservice,153 Commerce St,Lyon,France,Europe,45.78434,4.7865
+ST0241,Pure Foods - Marseille,Pure Foods,Manufacturing,310 Commerce St,Marseille,France,Europe,43.30077,5.36127
+ST0242,Green Brands - Frankfurt,Green Brands,Retail,218 Commerce St,Frankfurt,Germany,Europe,50.06367,8.72573
+ST0243,Pure Nutrition - The Hague,Pure Nutrition,Manufacturing,54 Commerce St,The Hague,Netherlands,Europe,52.11691,4.33838
+ST0244,Euro Foods - Brussels,Euro Foods,Key Account,573 Commerce St,Brussels,Belgium,Europe,50.82602,4.35152
+ST0245,Euro Nutrition - Lyon,Euro Nutrition,Key Account,3 Commerce St,Lyon,France,Europe,45.79158,4.80244
+ST0246,Golden Nutrition - Frankfurt,Golden Nutrition,Foodservice,329 Commerce St,Frankfurt,Germany,Europe,50.14949,8.71601
+ST0247,Euro Dairy - Toulouse,Euro Dairy,Retail,635 Commerce St,Toulouse,France,Europe,43.56295,1.47887
+ST0248,Golden Milk Co. - Brno,Golden Milk Co.,Manufacturing,521 Commerce St,Brno,Czech Republic,Europe,49.17291,16.64316
+ST0249,Pure Foods - Valencia,Pure Foods,Retail,124 Commerce St,Valencia,Spain,Europe,39.44727,-0.39402
+ST0250,Golden Milk Co. - Valencia,Golden Milk Co.,Foodservice,454 Commerce St,Valencia,Spain,Europe,39.50621,-0.40905

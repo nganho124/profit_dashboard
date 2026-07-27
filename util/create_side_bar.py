@@ -74,11 +74,39 @@ def create_side_bar(input_data):
 
         #     filtered_df = filtered_df[filtered_df.SupplyChainFlow.isin(list_supply_flow)]  
 
-        list_facility = filtered_df.FacilityType.unique()   
+        list_facility_type = filtered_df.FacilityType.unique()   
+        list_facility_type_choose = np.concatenate(([""], list_facility_type), axis=0)
 
         st.markdown("""
                     <div>
-                    <p>Facility:</p>
+                    <p>Facility Type:</p>
+                    </div>   
+                    """
+                    , unsafe_allow_html=True)
+        
+        facility_type = st.multiselect(
+            label='Choose facility type',
+            options=list_facility_type,
+            # default=list_facility,
+            placeholder="Selected all",
+            label_visibility='collapsed',
+            key=12        
+        )
+
+        if len(facility_type) > 0:
+
+            filtered_df = filtered_df[filtered_df.FacilityType.isin(facility_type)]
+        
+        else:
+
+            filtered_df = filtered_df[filtered_df.FacilityType.isin(list_facility_type)]
+
+        list_facility = filtered_df.FacilityName.unique()   
+        list_facility_choose = np.concatenate(([""], list_facility), axis=0)
+
+        st.markdown("""
+                    <div>
+                    <p>Facility Name:</p>
                     </div>   
                     """
                     , unsafe_allow_html=True)
@@ -88,7 +116,8 @@ def create_side_bar(input_data):
             options=list_facility,
             # default=list_facility,
             placeholder="Selected all",
-            label_visibility='collapsed'            
+            label_visibility='collapsed',
+            key=19            
         )
 
         if len(facility) > 0:
@@ -97,10 +126,8 @@ def create_side_bar(input_data):
         
         else:
 
-            filtered_df = filtered_df[filtered_df.FacilityType.isin(list_facility)]
+            filtered_df = filtered_df[filtered_df.FacilityType.isin(list_facility)]        
 
-        # list_segment = filtered_df.Segment.unique()
-        # list_segment_choose = np.concatenate(([""], list_segment), axis=0)
 
 
     with st.expander('Customer'):
@@ -136,6 +163,7 @@ def create_side_bar(input_data):
                     </div>   
                     """
                     , unsafe_allow_html=True)
+        
         parent = st.selectbox(
             label='Choose account',
             options=list_parent_name_choose,
@@ -164,12 +192,14 @@ def create_side_bar(input_data):
                     </div>   
                     """
                     , unsafe_allow_html=True)
+        
         country = st.selectbox(
             label='Choose country',
             options=list_country_choose,
             format_func= lambda x: 'Selected all' if x == '' else x,
             index = 0,            
-            label_visibility='collapsed'            
+            label_visibility='collapsed',
+            key=23            
         )
 
         if country != "":
@@ -193,13 +223,15 @@ def create_side_bar(input_data):
                     </div>   
                     """
                     , unsafe_allow_html=True)
+        
         category = st.selectbox(
             label='Choose material',
             options=list_category_choose,
             format_func= lambda x: 'Selected all' if x == '' else x,
             index = 0,
             # default=list_commodity,
-            label_visibility='collapsed'            
+            label_visibility='collapsed',
+            key=40            
         )     
 
         if category != "":
