@@ -1,0 +1,39 @@
+version: 2
+
+models:
+  - name: stg_customer_master
+    columns:
+      - name: ship_to_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_product_master
+    columns:
+      - name: product_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_facility_master
+    columns:
+      - name: facility_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_sales_orders
+    columns:
+      - name: order_id
+        tests:
+          - unique
+          - not_null
+      - name: ship_to_id
+        tests:
+          - not_null
+      - name: product_id
+        tests:
+          - not_null
+      - name: facility_id
+        tests:
+          - not_null

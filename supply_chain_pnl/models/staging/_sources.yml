@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: raw_supply_chain
+    database: project-2c7be5c5-b5f5-420a-8a5
+    schema: raw_supply_chain
+    tables:
+      - name: customer_master
+      - name: product_master
+      - name: facility_master
+      - name: sales_orders
+      - name: internal_transfer
+      - name: inventory
+      - name: transport_ratecard
